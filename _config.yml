@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Eric T Leung
+tagline:          'Computational Biologist'
+description:      'PhD student in bioinformatics and computational biology. Follow me on Twitter <a href=""https://twitter.com/erictleung>@erictleung</a>'
+url:              http://erictleung.com
+
+author:
+  name:           'Eric Leung'
+  url:            https://twitter.com/erictleung
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/erictleung

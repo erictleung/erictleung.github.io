@@ -1,4 +1,4 @@
-I have access to a Linux server, but I inconveniently did not have any root
+I have access to a Linux server, but I inconveniently do not have any root
 access. This means that installing software was a bit of a pain, because I could
 not use the usual `apt-get` command. Luckily, after many months of not using the
 server because I do not have root access, I have found the solution: Linuxbrew.

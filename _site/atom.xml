@@ -4,13 +4,45 @@
  <title>Eric T Leung</title>
  <link href="http://erictleung.com/atom.xml" rel="self"/>
  <link href="http://erictleung.com/"/>
- <updated>2015-06-29T04:11:27-07:00</updated>
+ <updated>2015-07-26T15:33:58-07:00</updated>
  <id>http://erictleung.com</id>
  <author>
    <name>Eric Leung</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Linuxbrew For When You Do Not Have Root Access</title>
+   <link href="http://erictleung.com/2015/07/26/linuxbrew-for-when-you-do-not-have-root-access/"/>
+   <updated>2015-07-26T00:00:00-07:00</updated>
+   <id>http://erictleung.com/2015/07/26/linuxbrew-for-when-you-do-not-have-root-access</id>
+   <content type="html">&lt;p&gt;I have access to a Linux server, but I inconveniently did not have any root
+access. This means that installing software was a bit of a pain, because I could
+not use the usual &lt;code&gt;apt-get&lt;/code&gt; command. Luckily, after many months of not using the
+server because I do not have root access, I have found the solution: Linuxbrew.&lt;/p&gt;
+
+&lt;p&gt;Paste this into your terminal and it will install Linuxbrew.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;ruby&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;e&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/linuxbrew/go/install)&amp;quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;If you are familiar with &lt;a href=&quot;http://brew.sh/&quot;&gt;homebrew&lt;/a&gt; from Mac OSX, this is just
+a port over to Linux to be your local package manager. &lt;/p&gt;
+
+&lt;p&gt;Additional steps to make this work are to add the following to your &lt;code&gt;.bashrc&lt;/code&gt;
+file.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nb&quot;&gt;export &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;PATH&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$HOME/.linuxbrew/bin:$PATH&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;export &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;MANPATH&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$HOME/.linuxbrew/share/man:$MANPATH&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;export &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;INFOPATH&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$HOME/.linuxbrew/share/info:$INFOPATH&amp;quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Afterward, you can start installing away with the following command.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;brew install package_name&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;You can find more documentation &lt;a href=&quot;http://brew.sh/linuxbrew/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
  
 
 </feed>

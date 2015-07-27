@@ -9,7 +9,7 @@ a rudder and compass and never knows where he may cast. - Leonardo da Vinci
 </p>
 
 I am a [PhD student](http://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/clinical-departments/dmice/people/eric-leung.cfm) 
-studing bioinformatics and computational biology at [Oregon Health & Science
+studying bioinformatics and computational biology at [Oregon Health & Science
 University]
 (http://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/clinical-departments/dmice/educational-programs/dmice-programs/computational-biology.cfm).
 My research interests are broadly in translational bioinformatics, the use of

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Linuxbrew - For When You Do Not Have Root Access
+title: Linuxbrew - For When You Don't Have Root Access
 ---
 
 I have access to a Linux server, but I inconveniently do not have any root

@@ -4,7 +4,7 @@
  <title>Eric T Leung</title>
  <link href="http://erictleung.com/atom.xml" rel="self"/>
  <link href="http://erictleung.com/"/>
- <updated>2015-07-26T15:33:58-07:00</updated>
+ <updated>2015-07-26T19:23:00-07:00</updated>
  <id>http://erictleung.com</id>
  <author>
    <name>Eric Leung</name>
@@ -17,7 +17,7 @@
    <link href="http://erictleung.com/2015/07/26/linuxbrew-for-when-you-do-not-have-root-access/"/>
    <updated>2015-07-26T00:00:00-07:00</updated>
    <id>http://erictleung.com/2015/07/26/linuxbrew-for-when-you-do-not-have-root-access</id>
-   <content type="html">&lt;p&gt;I have access to a Linux server, but I inconveniently did not have any root
+   <content type="html">&lt;p&gt;I have access to a Linux server, but I inconveniently do not have any root
 access. This means that installing software was a bit of a pain, because I could
 not use the usual &lt;code&gt;apt-get&lt;/code&gt; command. Luckily, after many months of not using the
 server because I do not have root access, I have found the solution: Linuxbrew.&lt;/p&gt;

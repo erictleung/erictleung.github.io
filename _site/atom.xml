@@ -4,7 +4,7 @@
  <title>Eric T Leung</title>
  <link href="http://erictleung.com/atom.xml" rel="self"/>
  <link href="http://erictleung.com/"/>
- <updated>2015-07-26T20:31:36-07:00</updated>
+ <updated>2015-07-26T20:41:06-07:00</updated>
  <id>http://erictleung.com</id>
  <author>
    <name>Eric Leung</name>
@@ -39,6 +39,11 @@ file.&lt;/p&gt;
 &lt;p&gt;Afterward, you can start installing away with the following command.&lt;/p&gt;
 
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;brew install package_name&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;For example, I wanted to use the console-based client for Pandora called
+&lt;a href=&quot;http://6xq.net/pianobar/&quot;&gt;pianobar&lt;/a&gt;, so I ran the following command.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;brew install pianobar&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;You can find more documentation &lt;a href=&quot;http://brew.sh/linuxbrew/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </content>

@@ -1,3 +1,8 @@
+---
+layout: post
+title: Linuxbrew - For When You Do Not Have Root Access
+---
+
 I have access to a Linux server, but I inconveniently do not have any root
 access. This means that installing software was a bit of a pain, because I could
 not use the usual `apt-get` command. Luckily, after many months of not using the

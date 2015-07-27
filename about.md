@@ -17,5 +17,5 @@ high-performance computing in genomics research and applications, and natural
 language processing.
 
 Previously, I was at the [University of Oklahoma](http://www.ou.edu/) where I 
-recieved Bachelor degrees in [biochemistry](http://chem.ou.edu/) and 
+received Bachelor degrees in [biochemistry](http://chem.ou.edu/) and 
 [mathematics](http://math.ou.edu).

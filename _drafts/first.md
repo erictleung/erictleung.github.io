@@ -6,6 +6,11 @@ def foo
 end
 {% endhighlight %}
 
+```python
+import pandas as pd
+import matplotlib.pyplot as plt
+```
+
 Some math maybe?
 
 $$5 + 5$$

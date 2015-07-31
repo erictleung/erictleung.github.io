@@ -15,3 +15,6 @@ optimizing the software. Instead of just one very fast processor, there would be
 smaller but multiple processors doing the work. Thus, parallel processing is
 needed and frameworks such as OpenMP and Open MPI were created to facilitate
 parallel processing.
+
+Links:
+https://www.whitehouse.gov/blog/2015/07/29/advancing-us-leadership-high-performance-computing

@@ -54,6 +54,12 @@ Symbolic links come in handy to point to different directories as they cannot be
 hard linked to. Another thing to note about soft links are that if you move the
 original file, the soft link will fail.
 
+## More Information
+
+A tutorial will be posted in the future with commands that can be used to make a
+hard link and a symbolic link but also how it affects how you get to those
+files.
+
 Image Source: <http://www.computerhope.com/unix/uln.htm>
 
 [hard link]: /assets/hard-link.jpg

@@ -3,6 +3,8 @@ layout: post
 title: The ln Command
 ---
 
+Estimated time to read: 10 minutes
+
 The `ln` command, whose function is to make links, confused me for the longest
 time. Here I will give an explanation of how this command works and why I will
 find myself using this in the future.

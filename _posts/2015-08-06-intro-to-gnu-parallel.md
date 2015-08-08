@@ -3,7 +3,7 @@ layout: post
 title: Introduction to GNU Parallel
 ---
 
-<span class="octicon octicon-clock"></span> 5 minutes
+<span class="octicon octicon-clock"></span> Reading Time: 5 minutes
 
 GNU `parallel` is a shell tool that allows you to execute jobs in parallel on one
 or more computers. 

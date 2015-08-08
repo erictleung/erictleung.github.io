@@ -3,7 +3,7 @@ layout: post
 title: The ln Command
 ---
 
-<span class="octicon octicon-clock"></span> 10 minutes
+<span class="octicon octicon-clock"></span> Reading Time: 5 minutes
 
 The `ln` command, whose function is to make links, confused me for the longest
 time. Here I will give an explanation of how this command works and why I will

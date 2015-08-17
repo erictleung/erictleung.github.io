@@ -22,7 +22,7 @@ U.S. in advanced computing.
 
 Just briefly, OpenMP (which stands for Open Multi-Processing) is an API which
 supports multi-platform shared memory multiprocessing programming in C, C++, and
-Fortran [1]. What this means is that you can parallize your programs on a shared
+Fortran [1][(1)]. What this means is that you can parallize your programs on a shared
 memory machine (e.g. your desktop or laptop with multiple processing cores).
 
 ## Open MPI
@@ -30,7 +30,8 @@ memory machine (e.g. your desktop or laptop with multiple processing cores).
 Open MPI, similarly, enables the user to parallize their programs but in a
 different fashion. Open MPI is an implementation of MPI, which stands for
 "message-passing interface." MPI is "a message-passing library interface
-specification."
+specification." More information can be found in the "MPI: A Message-Passing
+Interface Standard" documentation [2][(2)].
 
 ### Message Passing
 
@@ -58,9 +59,11 @@ language. So any implementation must create a library in order to interface with
 the hardware you are trying to optimize.
 
 Source:
+(1): https://en.wikipedia.org/wiki/OpenMP
+(2): http://www.mpi-forum.org/docs/mpi-3.1/mpi31-report.pdf
+
 [1]: https://en.wikipedia.org/wiki/OpenMP
 [2]: http://www.mpi-forum.org/docs/mpi-3.1/mpi31-report.pdf
-
 [wh]: https://www.whitehouse.gov/blog/2015/07/29/advancing-us-leadership-high-performance-computing
 [nsci]:
 https://www.whitehouse.gov/sites/default/files/microsites/ostp/nsci_fact_sheet.pdf

@@ -13,8 +13,6 @@ student! Every time I have heard that, I always think, "Yeah, I get that. I can
 make a story no problem." However, it turned out to be more difficult the more I
 thought about it. 
 
-<!--break-->
-
 ## What does telling a story mean?
 
 Over time, I've slowly gotten a sense of what telling a story means when doing
@@ -25,6 +23,8 @@ learned that semester. We learned about analyses such as: using BLAST to perform
 sequence alignment; performing multiple sequence alignments using MUSCLE to find
 homology; and a network analysis of our assigned gene and it's expressed protein
 interactions with other genes products.
+
+<!--break-->
 
 ## Let's make a story
 

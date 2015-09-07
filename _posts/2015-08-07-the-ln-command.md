@@ -26,6 +26,8 @@ my own project folder to make it easier on my scripts. I could copy all of the
 data to my own folder but that would make unnecessary duplications of the data.
 Here is where `ln` comes in.
 
+<!--break-->
+
 I can create a link file in my own project folder that links to the original
 data so that it looks like I have the data right in my folder. This link file
 can exist as one of two types of links: a *hard link* or a *soft/symbolic link*.

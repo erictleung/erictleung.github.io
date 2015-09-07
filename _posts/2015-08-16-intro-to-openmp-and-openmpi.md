@@ -22,6 +22,8 @@ U.S. in advanced computing.
 [nsci]:
 https://www.whitehouse.gov/sites/default/files/microsites/ostp/nsci_fact_sheet.pdf
 
+<!--break-->
+
 ## OpenMP
 
 Just briefly, OpenMP (which stands for Open Multi-Processing) is an API which

@@ -13,6 +13,8 @@ student! Every time I have heard that, I always think, "Yeah, I get that. I can
 make a story no problem." However, it turned out to be more difficult the more I
 thought about it. 
 
+<!--break-->
+
 ## What does telling a story mean?
 
 Over time, I've slowly gotten a sense of what telling a story means when doing

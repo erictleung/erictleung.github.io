@@ -25,6 +25,12 @@ github:           https://github.com/erictleung
 gems:
   - jekyll-sitemap
 
+# Page List
+pages_list:
+  Blog: '/blog'
+  Archive: '/archive'
+  Feed: '/atom.xml'
+
 # Default extension for new posts and pages
 post_ext: md
 page_ext: html

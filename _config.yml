@@ -25,6 +25,7 @@ github:           https://github.com/erictleung
 gems:
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-mentions
 
 # Page List
 pages_list:

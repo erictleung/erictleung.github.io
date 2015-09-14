@@ -24,6 +24,7 @@ github:           https://github.com/erictleung
 # Ruby plugins
 gems:
   - jekyll-sitemap
+  - jekyll-time-to-read
 
 # Page List
 pages_list:

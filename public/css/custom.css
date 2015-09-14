@@ -2,3 +2,7 @@
   font-size: smaller;
   text-align: center;
 }
+
+#side_posts {
+    padding-right: 0.75rem;
+}

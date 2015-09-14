@@ -14,7 +14,7 @@
         active{% endif %}" href="{{ site.baseurl }}/about">About</a>
     <a class="sidebar-nav-item{% if page.url == site.baseurl %}
         active{% endif %}" href="{{ site.baseurl }}/blog">Latest posts</a>
-    <ul class="posts">
+    <ul class="posts" id="side_posts">
       {% for post in site.posts limit:5 %}
         <li>
           <span>{{ post.date | date_to_string }}</span> &raquo;

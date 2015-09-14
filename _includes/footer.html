@@ -1,3 +1,13 @@
-<footer class="footer">
+<footer class="footer" id="foot-center">
+{% if site.footer-links.github %}
+  <a href="http://github.com/{{ site.footer-links.github }}">
+    <i class="fa fa-github fa-2x"></i>
+  </a>
+{% endif %}
 
+{% if site.footer-links.twitter %}
+  <a href="http://twitter.com/{{ site.footer-links.twitter }}">
+    <i class="fa fa-twitter fa-2x"></i>
+  </a>
+{% endif %}
 </footer>

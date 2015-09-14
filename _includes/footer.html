@@ -11,6 +11,18 @@
   </a>
 {% endif %}
 
+{% if site.footer-links.codepen %}
+  <a href="http://codepen.io/{{ site.footer-links.codepen }}">
+    <i class="fa fa-codepen fa-2x"></i>
+  </a>
+{% endif %}
+
+{% if site.footer-links.bitbucket %}
+  <a href="http://bitbucket.com/{{ site.footer-links.bitbucket }}">
+    <i class="fa fa-bitbucket fa-2x"></i>
+  </a>
+{% endif %}
+
 {% if site.pages_list.Feed %}
   <a href="/atom.xml">
     <i class="fa fa-rss fa-2x"></i>

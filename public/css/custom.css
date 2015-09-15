@@ -1,6 +1,6 @@
 .caption {
-  font-size: smaller;
-  text-align: center;
+    font-size: smaller;
+    text-align: center;
 }
 
 #side_posts {
@@ -10,4 +10,8 @@
 #foot-center {
     text-align: center;
     padding-bottom: 2rem;
+}
+
+.masthead-title {
+    padding-left: 3rem; 
 }

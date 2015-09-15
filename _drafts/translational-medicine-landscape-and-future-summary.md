@@ -1,4 +1,6 @@
 ---
+layout: post
+title: Translational Medicine Talk Summary
 published: false
 ---
 

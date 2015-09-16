@@ -103,3 +103,14 @@ is difficult to just changed the workflows of a hospital full of healthcare
 teams.
 
 [mean_use]: http://goo.gl/8fKrxn
+
+## Population Sequencing
+
+Recently, there was a *Nature* article on the [large-scale whole genome
+sequencing of the Icelandic population][iceland]. First was sequencing one
+genome, next is sequencing many genomes, lastly is sequencing populations and
+communities of genomes to gain insight into human disease and health. Once this
+data from the Icelandic population is available to use, coupling it with
+individual genome analysis is bound to give great insights.
+
+[iceland]: http://www.nature.com/ng/journal/v47/n5/full/ng.3247.html

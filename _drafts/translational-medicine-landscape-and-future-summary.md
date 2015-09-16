@@ -2,6 +2,12 @@
 layout: post
 title: Translational Medicine Talk Summary
 published: false
+category: bioinformatics
+tags:
+- health it
+- bioinformatics
+- population
+- big data
 ---
 
 

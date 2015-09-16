@@ -114,3 +114,13 @@ data from the Icelandic population is available to use, coupling it with
 individual genome analysis is bound to give great insights.
 
 [iceland]: http://www.nature.com/ng/journal/v47/n5/full/ng.3247.html
+
+## Consumer Genetic Sequencing
+
+[nyt]:
+http://www.nytimes.com/2013/12/31/science/i-had-my-dna-picture-taken-with-varying-results.html
+[insight]: http://insight-dna.com/
+[23andme]: https://www.23andme.com/
+[gene]: https://www.genebygene.com/
+[sequencing]: https://sequencing.com
+[map]: http://mapmygenome.in/

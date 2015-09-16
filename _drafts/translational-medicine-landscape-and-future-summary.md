@@ -74,3 +74,15 @@ oversight in order for analyses and infrastructure to be scalable and stable.
 
 [hgp]: http://www.genome.gov/12011238
 [encode]: https://www.encodeproject.org/
+
+## Biomedical Discovery
+
+[Lee Hood][hood] was quoted saying something along the lines of "biomedical
+discovery is becoming a data science." This was back in 1993 and he also
+commented on how around 20% would involve data. Times have changed and that
+percentage is much larger. Lee Hood went off to co-found [the Institute for
+Systems Biology][isb] in 2000 and since then has made great strides in data
+driven research.
+
+[hood]: https://en.wikipedia.org/wiki/Leroy_Hood
+[isb]: https://www.systemsbiology.org/

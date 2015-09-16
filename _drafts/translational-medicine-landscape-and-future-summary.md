@@ -86,3 +86,14 @@ driven research.
 
 [hood]: https://en.wikipedia.org/wiki/Leroy_Hood
 [isb]: https://www.systemsbiology.org/
+
+## IT in Hospitals
+
+In the United States, there has been a shift from using paper health records to
+electronic ones, part of which was [facilitated by government policy][mean_use].
+The days we dream of where health IT can efficiently and confidently improve
+healthcare is still but a dream. It is much easier to start from scratch but it
+is difficult to just changed the workflows of a hospital full of healthcare
+teams.
+
+[mean_use]: http://goo.gl/8fKrxn

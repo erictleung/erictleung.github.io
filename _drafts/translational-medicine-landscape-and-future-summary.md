@@ -4,6 +4,7 @@ title: Translational Medicine Talk Summary
 published: false
 ---
 
+
 I recently attended the [joint conference][ismbeccb2015] between [International
 Conference on Intelligent Systems for Molecule Biology][ismb] and [European
 Conference on Computational Biology][eccb] in Dublin, Ireland. One talk I went
@@ -47,7 +48,30 @@ The next wave of innovation was in the 1980's with affinity assays. My guess is
 that these are referring to [ligand binding assays][lba]. One possible invention
 was [Partition Affinity Ligand Assay (PALA)][partial].
 
-Lastly, before getting to where we are now with high throughput sequencing, 
+Lastly, before getting to where we are now with high throughput sequencing, there 
+was another upswing due to [monoclonal antibodies][mono], as opposed to [polyclonal 
+antibodies][poly]. Monoclonal antibodies are amazing because they bind to single 
+antigen type, which make them very specific in targeting. One example of using 
+monoclonal antibodies is in [cancer drugs][cancer_thr]. Here is more on the
+[difference between monoclonal and polyclonal antibodies][compare].
 
 [lba]: https://en.wikipedia.org/wiki/Ligand_binding_assay
 [partial]: http://goo.gl/nOFN2i
+[mono]: https://en.wikipedia.org/wiki/Monoclonal_antibody
+[poly]: https://en.wikipedia.org/wiki/Polyclonal_antibodies
+[cancer_thr]: http://goo.gl/JjWEZU
+[compare]: http://goo.gl/UX5Yif
+
+## The Tsunami of Data
+
+There was a time when there was just [THE human genome project][hgp], trying to 
+sequence THE genome. Nowadays, it is all about sequencing MANY whole genomes. 
+To make this data tsunami even larger, there are complementary pieces of 
+information that go with the genome analyses (such as [annotation data from 
+ENCODE][encode] and patient information) which make the analyses more difficult. 
+The exciting, rugged sea of computational analyses also yearns for a bit of 
+oversight in order for analyses and infrastructure to be scalable and 
+stable.
+
+[hgp]: http://www.genome.gov/12011238
+[encode]: https://www.encodeproject.org/

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Linuxbrew - For When You Don't Have Root Access
+category: linux
 ---
 
 <span class="octicon octicon-clock"></span> Reading Time: 5 minutes

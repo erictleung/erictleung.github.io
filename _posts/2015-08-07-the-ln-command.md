@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The ln Command
+category: linux
 ---
 
 <span class="octicon octicon-clock"></span> Reading Time: 5 minutes

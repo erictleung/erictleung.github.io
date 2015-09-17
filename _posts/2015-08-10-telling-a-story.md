@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Telling a Story"
+category: education
 ---
 
 <span class="octicon octicon-clock"></span> Reading Time: 5 minutes

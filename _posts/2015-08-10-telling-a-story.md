@@ -2,28 +2,31 @@
 layout: post
 title: "Telling a Story"
 category: education
+tags:
+- story telling
+- bioinformatics
+- learning
 ---
 
 <span class="octicon octicon-clock"></span> Reading Time: 5 minutes
 
-Earlier today, I was musing about some advice professors have given me in the
-past while doing course work. Several have told me when giving a presentation or
-doing research that you should tell a story. However, they never go into detail
-about what that actually means and it can be very frustrating for a learning
-student! Every time I have heard that, I always think, "Yeah, I get that. I can
-make a story no problem." However, it turned out to be more difficult the more I
-thought about it. 
+Today, I thought about some advice professors have given me in the past while
+doing course work. Several have told me when giving a presentation or doing
+research that you should tell a story. But yet, they never go into detail about
+what that actually means. This can be very frustrating for a learning student!
+Every time I have heard that, I always think, "Yeah, I get that. I can make a
+story no problem." It turned out to be more difficult the more I thought about
+it. 
 
 ## What does telling a story mean?
 
-Over time, I've slowly gotten a sense of what telling a story means when doing
-research. An example I'll use is from a project I was given in my undergraduate
-introduction to bioinformatics course. Our professor assigned each of us a gene
-to study and to "tell a story about it" using the bioinformatics tools we've
-learned that semester. We learned about analyses such as: using BLAST to perform
-sequence alignment; performing multiple sequence alignments using MUSCLE to find
-homology; and a network analysis of our assigned gene and it's expressed protein
-interactions with other genes products.
+Over time, I've gotten a sense of what telling a story means when doing
+research. Several years ago, I had a class project for my introduction to
+bioinformatics course. Our professor assigned each of us a gene to study and to
+"tell a story about it" using the tools we've learned. We learned about analyses
+such as: using BLAST to perform sequence alignment; performing multiple sequence
+alignments using MUSCLE to find homology; and a network analysis of our assigned
+gene and it's expressed protein interactions with other genes products.
 
 <!--break-->
 

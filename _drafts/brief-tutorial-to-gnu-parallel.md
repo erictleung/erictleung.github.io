@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Brief Tutorial in GNU Parallel
+category: command line
 ---
 
 Estimated time to read: 10 minutes

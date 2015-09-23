@@ -3,7 +3,7 @@ layout: post
 title: "Telling a Story"
 category: education
 tags:
-- story telling
+- storytelling
 - bioinformatics
 - learning
 ---

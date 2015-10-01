@@ -16,3 +16,7 @@ the concept.
 [pedro]: http://homes.cs.washington.edu/~pedrod/
 
 ## Learning = Representation + Evaluation + Optimization
+
+There are three parts to making a "learning" model: a representation, an
+evaluation, and optimization piece. The representation describes how you will
+describe and talk about the model. 

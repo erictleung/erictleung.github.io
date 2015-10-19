@@ -19,4 +19,10 @@ the concept.
 
 There are three parts to making a "learning" model: a representation, an
 evaluation, and optimization piece. The representation describes how you will
-describe and talk about the model. 
+describe and talk about the model. Some kinds of representations are decision
+trees and K-nearest neighbors. Both are types of learning models but each look
+at your problem in a different way.
+
+Now that we have a picture of our problem, we need a way to check whether or not
+a particular sample is good or not. This step is called the evaluation function
+or scoring function. 

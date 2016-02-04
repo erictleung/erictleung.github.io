@@ -17,7 +17,7 @@ research that you should tell a story. But yet, they never go into detail about
 what that actually means. This can be very frustrating for a learning student!
 Every time I have heard that, I always think, "Yeah, I get that. I can make a
 story no problem." It turned out to be more difficult the more I thought about
-it. 
+it.
 
 ## What does telling a story mean?
 
@@ -35,19 +35,19 @@ gene and it's expressed protein interactions with other genes products.
 
 Now this is some great bioinformatics being done on this gene but when I first
 completed the project, each analysis felt disconnected and just put together with
-duck tape. 
+duck tape.
 
 If I were to redo the project, I would make it into a mystery story because all
 I was given was the gene with no context. It reminds me of the book [Extremely
 Loud and Incredibly Close][book] where the main character, Oskar, discovers a
 key in a vase he broke and is curious enough to make it his mission to find out
-more information about this mysterious key. 
+more information about this mysterious key.
 
 Similar to Oskar's situation where he was given no information about this key,
 I should have taken the mind set that there should be a "story" or background of
 how this gene came to existence. Did it evolve from another gene? What other
 genes are similar to this gene? Maybe those other genes can create a larger lens
-through which I can see this gene in? 
+through which I can see this gene in?
 
 These questions come a little more naturally to me now that I am a bit older but
 it is still a work in progress. But the one thing I have experienced and tend to

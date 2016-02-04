@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Telling a Story"
-category: education
+category:
+    - Education
 tags:
-- storytelling
-- bioinformatics
-- learning
+    - storytelling
+    - bioinformatics
+    - learning
 ---
 
 <span class="octicon octicon-clock"></span> Reading Time: 5 minutes

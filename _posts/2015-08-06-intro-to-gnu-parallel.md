@@ -4,14 +4,14 @@ title: Introduction to GNU Parallel
 category: linux
 ---
 
-<span class="octicon octicon-clock"></span> Reading Time: 5 minutes
-
 GNU `parallel` is a shell tool that allows you to execute jobs in parallel on one
-or more computers. 
+or more computers.
+
+<!--break-->
 
 Say we are working on a single computer with four CPU cores and want to run
-thirty-two jobs. Alloting jobs, you may divide the jobs evenly prior to running
-the job. 
+thirty-two jobs. Allotting jobs, you may divide the jobs evenly prior to running
+the job.
 
 ![Alt Dividing jobs by number of cores][before]
 

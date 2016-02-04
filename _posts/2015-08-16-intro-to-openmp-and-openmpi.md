@@ -11,6 +11,8 @@ computer. This increasing power consumption is not sustainable because with more
 power, the most heat that is generated and even more power is needed to cool
 down the processors. Thus, faster hardware is not the answer.
 
+<!--break-->
+
 The solution for faster computers has now shifted from improving the hardware to
 optimizing the software. Instead of just one very fast processor, there would be
 smaller but multiple processors doing the work. Thus, parallel processing is
@@ -20,10 +22,7 @@ establishing the [National Strategic Computing Initiative (NSCI)][nsci] to lead 
 U.S. in advanced computing.
 
 [wh]: https://www.whitehouse.gov/blog/2015/07/29/advancing-us-leadership-high-performance-computing
-[nsci]:
-https://www.whitehouse.gov/sites/default/files/microsites/ostp/nsci_fact_sheet.pdf
-
-<!--break-->
+[nsci]: https://www.whitehouse.gov/sites/default/files/microsites/ostp/nsci_fact_sheet.pdf
 
 ## OpenMP
 
@@ -49,7 +48,7 @@ Interface Standard" documentation (2).
 The reason Open MPI is different from OpenMP is because Opne MPI works on
 distributed memory systems, i.e. supercomputer or cluster computers. Thus,
 message passing makes more sense when you think about it in terms of a cluster
-of computers. 
+of computers.
 
 ### Specification
 

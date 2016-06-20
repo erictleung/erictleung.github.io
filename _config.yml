@@ -8,7 +8,7 @@ permalink:        /:title.html
 # Setup
 title:            Eric T Leung
 description:      'PhD student in bioinformatics and computational biology. Follow me on Twitter at <a href="https://twitter.com/erictleung">@erictleung</a>'
-url:              http://erictleung.com
+url:              https://erictleung.com
 
 author:
   name:           'Eric Leung'

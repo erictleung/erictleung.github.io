@@ -7,6 +7,9 @@ Here are the papers I've read through in September. As my qualifying exam is
 coming up, I've chosen these papers to be more focused on computational methods
 I may run into or I was interested in their experimental design.
 
+15. **Sept 07** Krzywinski, Martin, and Naomi Altman. ["Points of significance:
+    importance of being uncertain."][sep07krzywinski] *Nature methods* 10.9
+    (2013): 809-810.
 14. **Sept 06** Hingle S. ["Electronic Health Records: An Unfulfilled Promise
     and a Call to Action."][sep06hingle] Ann Intern Med. [Epub ahead of print 6
     September 2016] doi:10.7326/M16-1757
@@ -21,6 +24,7 @@ I may run into or I was interested in their experimental design.
     Osterhaus. ["Advances in influenza vaccination."][sep02reperant]
     *F1000prime reports* 6 (2014).
 
+[sep07krzywinshi]: http://www.nature.com/nmeth/journal/v10/n9/full/nmeth.2613.html
 [sep06hingle]: http://annals.org/article.aspx?articleid=2546705
 [sep05friedman]: http://dx.doi.org/10.1136/amiajnl-2014-002977
 [sep04epel]: http://www.nature.com/tp/journal/v6/n8/abs/tp2016164a.html

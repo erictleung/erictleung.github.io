@@ -7,6 +7,10 @@ Here are the papers I've read through in September. As my qualifying exam is
 coming up, I've chosen these papers to be more focused on computational methods
 I may run into or I was interested in their experimental design.
 
+17. **Sept 09** Powell, Kendall. ["Presentations: Billboard
+    science."][sep08powell] *Nature* 483.7387 (2012): 113-115.
+16. **Sept 08** Woolston, Chris. ["Conference presentations: Lead the poster
+    parade."][sep08woolston] *Nature* 536.7614 (2016): 115-117.
 15. **Sept 07** Krzywinski, Martin, and Naomi Altman. ["Points of significance:
     importance of being uncertain."][sep07krzywinski] *Nature methods* 10.9
     (2013): 809-810.
@@ -24,6 +28,8 @@ I may run into or I was interested in their experimental design.
     Osterhaus. ["Advances in influenza vaccination."][sep02reperant]
     *F1000prime reports* 6 (2014).
 
+[sep08powell]: http://dx.doi.org/10.1038/nj7387-113a
+[sep08woolston]: http://dx.doi.org/10.1038/nj7614-115a
 [sep07krzywinshi]: http://www.nature.com/nmeth/journal/v10/n9/full/nmeth.2613.html
 [sep06hingle]: http://annals.org/article.aspx?articleid=2546705
 [sep05friedman]: http://dx.doi.org/10.1136/amiajnl-2014-002977

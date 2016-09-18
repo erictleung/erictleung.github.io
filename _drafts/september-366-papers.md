@@ -7,6 +7,8 @@ Here are the papers I've read through in September. As my qualifying exam is
 coming up, I've chosen these papers to be more focused on computational methods
 I may run into or I was interested in their experimental design.
 
+19. **Sept 17** McPherson, John D. ["Next-generation gap."][sep17mcpherson]
+    Nature methods 6 (2009): S2-S5.
 18. **Sept 17** Ritchie, Matthew E., et al. ["limma powers differential
     expression analyses for RNA-sequencing and microarray
     studies."][sep17ritchie] *Nucleic acids research* (2015): gkv007.
@@ -31,6 +33,7 @@ I may run into or I was interested in their experimental design.
     Osterhaus. ["Advances in influenza vaccination."][sep02reperant]
     *F1000prime reports* 6 (2014).
 
+[sep17mcpherson]: http://www.nature.com/nmeth/journal/v6/n11s/full/nmeth.f.268.html
 [sep17ritchie]: http://nar.oxfordjournals.org/content/43/7/e47.full
 [sep08powell]: http://dx.doi.org/10.1038/nj7387-113a
 [sep08woolston]: http://dx.doi.org/10.1038/nj7614-115a

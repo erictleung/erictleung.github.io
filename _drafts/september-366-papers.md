@@ -7,6 +7,8 @@ Here are the papers I've read through in September. As my qualifying exam is
 coming up, I've chosen these papers to be more focused on computational methods
 I may run into or I was interested in their experimental design.
 
+21. **Sept 19** Jordano, Pedro. ["Chasing Ecological
+    Interactions."][sep19jordano] *PLoS Biol* 14.9 (2016): e1002559.
 20. **Sept 17** Wold, Barbara, and Richard M. Myers. ["Sequence census methods
     for functional genomics."][sep17wold] *Nature methods* 5.1 (2008): 19-21.
 19. **Sept 17** McPherson, John D. ["Next-generation gap."][sep17mcpherson]
@@ -35,6 +37,7 @@ I may run into or I was interested in their experimental design.
     Osterhaus. ["Advances in influenza vaccination."][sep02reperant]
     *F1000prime reports* 6 (2014).
 
+[sep19jordano]: http://dx.doi.org/10.1371/journal.pbio.1002559
 [sep17wold]: http://www.nature.com/nmeth/journal/v5/n1/full/nmeth1157.html
 [sep17mcpherson]: http://www.nature.com/nmeth/journal/v6/n11s/full/nmeth.f.268.html
 [sep17ritchie]: http://nar.oxfordjournals.org/content/43/7/e47.full

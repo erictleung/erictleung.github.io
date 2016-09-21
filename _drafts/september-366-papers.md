@@ -7,6 +7,9 @@ Here are the papers I've read through in September. As my qualifying exam is
 coming up, I've chosen these papers to be more focused on computational methods
 I may run into or I was interested in their experimental design.
 
+22. **Sept 20** Krzywinski, Martin, and Naomi Altman. ["Points of significance:
+    Significance, P values and t-tests."][sep20kry] *Nature methods* 10.11
+    (2013): 1041-1042.
 21. **Sept 19** Jordano, Pedro. ["Chasing Ecological
     Interactions."][sep19jordano] *PLoS Biol* 14.9 (2016): e1002559.
 20. **Sept 17** Wold, Barbara, and Richard M. Myers. ["Sequence census methods
@@ -37,6 +40,7 @@ I may run into or I was interested in their experimental design.
     Osterhaus. ["Advances in influenza vaccination."][sep02reperant]
     *F1000prime reports* 6 (2014).
 
+[sep20kry]: http://www.nature.com/nmeth/journal/v10/n11/full/nmeth.2698.html
 [sep19jordano]: http://dx.doi.org/10.1371/journal.pbio.1002559
 [sep17wold]: http://www.nature.com/nmeth/journal/v5/n1/full/nmeth1157.html
 [sep17mcpherson]: http://www.nature.com/nmeth/journal/v6/n11s/full/nmeth.f.268.html

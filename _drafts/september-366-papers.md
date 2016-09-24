@@ -7,6 +7,12 @@ Here are the papers I've read through in September. As my qualifying exam is
 coming up, I've chosen these papers to be more focused on computational methods
 I may run into or I was interested in their experimental design.
 
+25. **Sept 23** Agoramoorthy, Govindasamy. ["Multiple First Authors as Equal
+    Contributors: Is It Ethical?."][sep23ago] *Science and Engineering Ethics*
+    (2016): 1-3.
+24. **Sept 22** Krzywinski, Martin, and Naomi Altman. ["Points of significance:
+    visualizing samples with box plots."][sep22kry] *Nature methods* 11.2
+    (2014): 119-120.
 23. **Sept 21** Krzywinski, Martin, and Naomi Altman. ["Points of significance:
     Power and sample size."][sep21kry] *Nature methods* 10.12 (2013): 1139-1140.
 22. **Sept 20** Krzywinski, Martin, and Naomi Altman. ["Points of significance:
@@ -42,6 +48,8 @@ I may run into or I was interested in their experimental design.
     Osterhaus. ["Advances in influenza vaccination."][sep02reperant]
     *F1000prime reports* 6 (2014).
 
+[sep23ago]: http://link.springer.com/article/10.1007/s11948-016-9794-x
+[sep22kry]: http://www.nature.com/nmeth/journal/v11/n2/full/nmeth.2813.html
 [sep21kry]: http://www.nature.com/nmeth/journal/v10/n12/full/nmeth.2738.html
 [sep20kry]: http://www.nature.com/nmeth/journal/v10/n11/full/nmeth.2698.html
 [sep19jordano]: http://dx.doi.org/10.1371/journal.pbio.1002559

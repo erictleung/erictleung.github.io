@@ -7,6 +7,9 @@ Here are the papers I've read through in September. As my qualifying exam is
 coming up, I've chosen these papers to be more focused on computational methods
 I may run into or I was interested in their experimental design.
 
+26. **Sept 25** Krzywinski, Martin, and Naomi Altman. ["Points of significance:
+    Comparing samples--part I."][sep25kry] *Nature Methods* 11.3 (2014):
+    215-216.
 25. **Sept 23** Agoramoorthy, Govindasamy. ["Multiple First Authors as Equal
     Contributors: Is It Ethical?."][sep23ago] *Science and Engineering Ethics*
     (2016): 1-3.
@@ -48,6 +51,7 @@ I may run into or I was interested in their experimental design.
     Osterhaus. ["Advances in influenza vaccination."][sep02reperant]
     *F1000prime reports* 6 (2014).
 
+[sep25kry]: http://www.nature.com/nmeth/journal/v11/n3/full/nmeth.2858.html
 [sep23ago]: http://link.springer.com/article/10.1007/s11948-016-9794-x
 [sep22kry]: http://www.nature.com/nmeth/journal/v11/n2/full/nmeth.2813.html
 [sep21kry]: http://www.nature.com/nmeth/journal/v10/n12/full/nmeth.2738.html

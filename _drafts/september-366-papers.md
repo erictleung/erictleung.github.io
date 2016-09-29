@@ -7,6 +7,9 @@ Here are the papers I've read through in September. As my qualifying exam is
 coming up, I've chosen these papers to be more focused on computational methods
 I may run into or I was interested in their experimental design.
 
+26. **Sept 28** Krzywinski, Martin, and Naomi Altman. ["Points of significance:
+    Comparing samples--part II."][sep28kry] *Nature Methods* 11.4 (2014):
+    355-356.
 26. **Sept 25** Krzywinski, Martin, and Naomi Altman. ["Points of significance:
     Comparing samples--part I."][sep25kry] *Nature Methods* 11.3 (2014):
     215-216.
@@ -51,6 +54,7 @@ I may run into or I was interested in their experimental design.
     Osterhaus. ["Advances in influenza vaccination."][sep02reperant]
     *F1000prime reports* 6 (2014).
 
+[sep28kry]: http://www.nature.com/nmeth/journal/v11/n4/full/nmeth.2900.html
 [sep25kry]: http://www.nature.com/nmeth/journal/v11/n3/full/nmeth.2858.html
 [sep23ago]: http://link.springer.com/article/10.1007/s11948-016-9794-x
 [sep22kry]: http://www.nature.com/nmeth/journal/v11/n2/full/nmeth.2813.html

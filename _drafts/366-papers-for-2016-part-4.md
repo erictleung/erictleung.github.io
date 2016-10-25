@@ -5,6 +5,8 @@ title: 366 Papers for 2016 Part 4
 
 Another round of papers!
 
+33. **Oct 24** Segre, Julia A. ["Microbial growth dynamics and human
+    disease."][oct24segre] Science 349.6252 (2015): 1058-1059.
 32. **Oct 19** Barba, Lorena A. ["The hard road to
     reproducibility."][oct19barba] Science 354.6308 (2016): 142-142.
 31. **Oct 14** ["Scientific buzzwords obscure meaning"][oct14buzz] *Nature*
@@ -21,6 +23,7 @@ Another round of papers!
     evaluation."][oct06evans] *Journal of the American Medical Informatics
     Association* (2016): ocv197.
 
+[oct24segre]: http://science.sciencemag.org/content/349/6252/1058
 [oct19barba]: http://science.sciencemag.org/content/354/6308/142
 [oct14buzz]: http://www.nature.com/news/scientific-buzzwords-obscure-meaning-1.20772
 [oct14exac]: http://www.nature.com/news/rethink-the-links-between-genes-and-disease-1.20771

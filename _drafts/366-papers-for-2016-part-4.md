@@ -5,8 +5,12 @@ title: 366 Papers for 2016 Part 4
 
 Another round of papers!
 
+35. **Oct 29** Ambroise, Christophe, and Geoffrey J. McLachlan. ["Selection
+    bias in gene extraction on the basis of microarray gene-expression
+    data."][oct29ambroise] Proceedings of the national academy of sciences
+    99.10 (2002): 6562-6566.
 34. **Oct 26** Coiera, Enrico, Sarah Collins, and Craig Kuziemsky. ["A unified
-    model of patient safety (or “Who froze my cheese?”)."][oct26coiera] BMJ 347
+    model of patient safety (or "Who froze my cheese?")."][oct26coiera] BMJ 347
     (2013): f7273.
 33. **Oct 24** Segre, Julia A. ["Microbial growth dynamics and human
     disease."][oct24segre] Science 349.6252 (2015): 1058-1059.
@@ -26,6 +30,7 @@ Another round of papers!
     evaluation."][oct06evans] *Journal of the American Medical Informatics
     Association* (2016): ocv197.
 
+[oct29ambroise]: http://www.pnas.org/content/99/10/6562.full
 [oct26coiera]: http://dx.doi.org/10.1136/bmj.f7273
 [oct24segre]: http://science.sciencemag.org/content/349/6252/1058
 [oct19barba]: http://science.sciencemag.org/content/354/6308/142

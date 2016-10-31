@@ -5,6 +5,16 @@ title: 366 Papers for 2016 Part 4
 
 Another round of papers!
 
+40. **Oct 30** Brendan Maher & Miquel Sureda Anfres ["Young scientists under
+    pressure: what the data show"][oct30maher] *Nature* **538**, 444-445 (2016)
+39. **Oct 30** Powell, Kendall ["Young, talented and fed-up: scientists tell
+    their stories"][oct30powell] *Nature* **538**, 446-449 (2016)
+38. **Oct 30** Rinze Benedictus, Frank Miedema & Mark W. J. Ferguson ["Fewer
+    numbers, better science."][oct30rinze] *Nature* **538**, 454-455 (2016)
+37. **Oct 29** Tolu Oni, Fabio Sciarrino, Gerardo Adesso & Rob Knight ["Let
+    researchers try new paths"][oct29paths] *Nature* **538**, 451-453 (2016)
+36. **Oct 29** ["Early-career researchers need fewer burdens and more
+    support"][oct29early] *Nature* **538**, 427 (2016)
 35. **Oct 29** Ambroise, Christophe, and Geoffrey J. McLachlan. ["Selection
     bias in gene extraction on the basis of microarray gene-expression
     data."][oct29ambroise] Proceedings of the national academy of sciences
@@ -30,6 +40,11 @@ Another round of papers!
     evaluation."][oct06evans] *Journal of the American Medical Informatics
     Association* (2016): ocv197.
 
+[oct30maher]: http://www.nature.com/news/young-scientists-under-pressure-what-the-data-show-1.20871
+[oct30powell]: http://www.nature.com/news/young-talented-and-fed-up-scientists-tell-their-stories-1.20872
+[oct30rinze]: http://www.nature.com/news/fewer-numbers-better-science-1.20858
+[oct29paths]: http://www.nature.com/news/let-researchers-try-new-paths-1.20857
+[oct29early]: http://www.nature.com/news/early-career-researchers-need-fewer-burdens-and-more-support-1.20863
 [oct29ambroise]: http://www.pnas.org/content/99/10/6562.full
 [oct26coiera]: http://dx.doi.org/10.1136/bmj.f7273
 [oct24segre]: http://science.sciencemag.org/content/349/6252/1058

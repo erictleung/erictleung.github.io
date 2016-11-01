@@ -5,6 +5,9 @@ title: 366 Papers for 2016 Part 4
 
 Another round of papers!
 
+41. **Oct 31** Naegle, Kristen, Nancy R. Gough, and Michael B. Yaffe. ["Criteria
+    for biological reproducibility: what does" n" mean?."][oct31naegle] *Science
+    signaling* 8.371 (2015): fs7.
 40. **Oct 30** Brendan Maher & Miquel Sureda Anfres ["Young scientists under
     pressure: what the data show"][oct30maher] *Nature* **538**, 444-445 (2016)
 39. **Oct 30** Powell, Kendall ["Young, talented and fed-up: scientists tell
@@ -40,6 +43,7 @@ Another round of papers!
     evaluation."][oct06evans] *Journal of the American Medical Informatics
     Association* (2016): ocv197.
 
+[oct31naegle]: https://www.ncbi.nlm.nih.gov/pubmed/25852186
 [oct30maher]: http://www.nature.com/news/young-scientists-under-pressure-what-the-data-show-1.20871
 [oct30powell]: http://www.nature.com/news/young-talented-and-fed-up-scientists-tell-their-stories-1.20872
 [oct30rinze]: http://www.nature.com/news/fewer-numbers-better-science-1.20858

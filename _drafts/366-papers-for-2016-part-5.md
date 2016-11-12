@@ -12,6 +12,9 @@ November papers!
 
 <!--break-->
 
+47. **Nov 11** Woese, Carl R., and George E. Fox. ["Phylogenetic structure of
+    the prokaryotic domain: the primary kingdoms."][nov11woese] *Proceedings of
+    the National Academy of Sciences* 74.11 (1977): 5088-5090.
 46. **Nov 11** Madzvamuse, Anotida, and Sharon R. Lubkin. ["A note on how to
     develop interdisciplinary collaborations between experimentalists and
     theoreticians."][nov11mad] *Interface Focus* 6.5 (2016): 20160069.
@@ -25,6 +28,7 @@ November papers!
 42. **Nov 07** Thaiss, Christoph A., et al. ["The microbiome and innate
     immunity."][nov07thaiss] *Nature* 535.7610 (2016): 65-74.
 
+[nov11woese]: https://doi.org/10.1073/pnas.74.11.5088
 [nov11mad]: https://doi.org/10.1098/rsfs.2016.0069
 [nov09rosenthal]: https://doi.org/10.1056/NEJMp1609055
 [nov08gevers]: http://dx.doi.org/10.1371/journal.pbio.1001377

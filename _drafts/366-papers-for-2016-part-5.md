@@ -12,6 +12,9 @@ November papers!
 
 <!--break-->
 
+46. **Nov 11** Madzvamuse, Anotida, and Sharon R. Lubkin. ["A note on how to
+    develop interdisciplinary collaborations between experimentalists and
+    theoreticians."][nov11mad] *Interface Focus* 6.5 (2016): 20160069.
 45. **Nov 09** Rosenthal, David I., and Abraham Verghese. ["Meaning and the
     Nature of Physicians' Work"][nov09rosenthal] *N Engl J Med* 2016; 375:1813-1815
 44. **Nov 08** Gevers, Dirk, et al. ["The Human Microbiome Project: a community
@@ -22,6 +25,7 @@ November papers!
 42. **Nov 07** Thaiss, Christoph A., et al. ["The microbiome and innate
     immunity."][nov07thaiss] *Nature* 535.7610 (2016): 65-74.
 
+[nov11mad]: https://doi.org/10.1098/rsfs.2016.0069
 [nov09rosenthal]: https://doi.org/10.1056/NEJMp1609055
 [nov08gevers]: http://dx.doi.org/10.1371/journal.pbio.1001377
 [nov07glen]: http://dx.doi.org/10.1371/journal.pgen.1006364

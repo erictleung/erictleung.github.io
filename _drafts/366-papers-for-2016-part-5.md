@@ -12,6 +12,11 @@ November papers!
 
 <!--break-->
 
+49. **Nov 18** Zuur, Alain F., Elena N. Ieno, and Chris S. Elphick. ["A protocol
+    for data exploration to avoid common statistical problems."][nov18zuur]
+    *Methods in Ecology and Evolution* 1.1 (2010): 3-14.
+48. **Nov 17** Lozupone, Catherine A., et al. ["Meta-analyses of studies of the
+    human microbiota."][nov17lozu] *Genome research* 23.10 (2013): 1704-1714.
 47. **Nov 11** Woese, Carl R., and George E. Fox. ["Phylogenetic structure of
     the prokaryotic domain: the primary kingdoms."][nov11woese] *Proceedings of
     the National Academy of Sciences* 74.11 (1977): 5088-5090.
@@ -28,6 +33,8 @@ November papers!
 42. **Nov 07** Thaiss, Christoph A., et al. ["The microbiome and innate
     immunity."][nov07thaiss] *Nature* 535.7610 (2016): 65-74.
 
+[nov18zuur]: https://doi.org/10.1111/j.2041-210X.2009.00001.x
+[nov17lozu]: https://doi.org/10.1101/gr.151803.112
 [nov11woese]: https://doi.org/10.1073/pnas.74.11.5088
 [nov11mad]: https://doi.org/10.1098/rsfs.2016.0069
 [nov09rosenthal]: https://doi.org/10.1056/NEJMp1609055

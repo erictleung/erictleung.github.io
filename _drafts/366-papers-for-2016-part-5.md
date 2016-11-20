@@ -12,6 +12,11 @@ November papers!
 
 <!--break-->
 
+51. **Nov 20** Mende, Daniel R., et al. ["proGenomes: a resource for consistent
+    functional and taxonomic annotations of prokaryotic genomes."][nov20mende]
+    *Nucleic Acids Research* (2016): gkw989.
+50. **Nov 19** Henrich, Joseph, Steven J. Heine, and Ara Norenzayan. ["Most
+    people are not WEIRD."][nov19henrich] *Nature* 466.7302 (2010): 29-29.
 49. **Nov 18** Zuur, Alain F., Elena N. Ieno, and Chris S. Elphick. ["A protocol
     for data exploration to avoid common statistical problems."][nov18zuur]
     *Methods in Ecology and Evolution* 1.1 (2010): 3-14.
@@ -33,6 +38,8 @@ November papers!
 42. **Nov 07** Thaiss, Christoph A., et al. ["The microbiome and innate
     immunity."][nov07thaiss] *Nature* 535.7610 (2016): 65-74.
 
+[nov20mende]: https://doi.org/10.1093/nar/gkw989
+[nov19henrich]: https://doi.org/10.1038/466029a
 [nov18zuur]: https://doi.org/10.1111/j.2041-210X.2009.00001.x
 [nov17lozu]: https://doi.org/10.1101/gr.151803.112
 [nov11woese]: https://doi.org/10.1073/pnas.74.11.5088

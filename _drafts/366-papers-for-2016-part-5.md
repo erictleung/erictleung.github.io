@@ -12,6 +12,9 @@ November papers!
 
 <!--break-->
 
+52. **Nov 20** Zhang, Jun, and F. Yu Kai. ["What's the relative risk?: A method
+    of correcting the odds ratio in cohort studies of common
+    outcomes."][nov20zhang] *JAMA* 280.19 (1998): 1690-1691.
 51. **Nov 20** Mende, Daniel R., et al. ["proGenomes: a resource for consistent
     functional and taxonomic annotations of prokaryotic genomes."][nov20mende]
     *Nucleic Acids Research* (2016): gkw989.
@@ -38,6 +41,7 @@ November papers!
 42. **Nov 07** Thaiss, Christoph A., et al. ["The microbiome and innate
     immunity."][nov07thaiss] *Nature* 535.7610 (2016): 65-74.
 
+[nov20zhang]: https://doi.org/10.1001/jama.280.19.1690
 [nov20mende]: https://doi.org/10.1093/nar/gkw989
 [nov19henrich]: https://doi.org/10.1038/466029a
 [nov18zuur]: https://doi.org/10.1111/j.2041-210X.2009.00001.x

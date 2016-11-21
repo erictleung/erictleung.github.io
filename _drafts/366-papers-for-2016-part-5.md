@@ -12,6 +12,8 @@ November papers!
 
 <!--break-->
 
+53. **Nov 20** Zikmund-Fisher, Brian J. ["When 'Actionable' Genomic Sequencing
+    Results Cannot be Acted Upon."][nov20zik] *JAMA oncology* (2016).
 52. **Nov 20** Zhang, Jun, and F. Yu Kai. ["What's the relative risk?: A method
     of correcting the odds ratio in cohort studies of common
     outcomes."][nov20zhang] *JAMA* 280.19 (1998): 1690-1691.
@@ -41,6 +43,7 @@ November papers!
 42. **Nov 07** Thaiss, Christoph A., et al. ["The microbiome and innate
     immunity."][nov07thaiss] *Nature* 535.7610 (2016): 65-74.
 
+[nov20zik]: https://doi.org/10.1001/jamaoncol.2016.3283
 [nov20zhang]: https://doi.org/10.1001/jama.280.19.1690
 [nov20mende]: https://doi.org/10.1093/nar/gkw989
 [nov19henrich]: https://doi.org/10.1038/466029a

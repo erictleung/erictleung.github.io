@@ -12,6 +12,8 @@ November papers!
 
 <!--break-->
 
+57. **Nov 23** Naik, Shruti, et al. ["Compartmentalized control of skin immunity
+    by resident commensals."][nov23naik] *Science* 337.6098 (2012): 1115-1119.
 56. **Nov 22** Lee, Yun Kyung, and Sarkis K. Mazmanian. ["Microbial learning
     lessons: SFB educate the immune system."][nov22lee] *Immunity* 40.4 (2014):
     457-459.
@@ -51,7 +53,8 @@ November papers!
 42. **Nov 07** Thaiss, Christoph A., et al. ["The microbiome and innate
     immunity."][nov07thaiss] *Nature* 535.7610 (2016): 65-74.
 
-[nov22lee]: http://dx.doi.org/10.1016/j.immuni.2014.04.002
+[nov23naik]: https://doi.org/10.1126/science.1225152
+[nov22lee]: https://dx.doi.org/10.1016/j.immuni.2014.04.002
 [nov22honda]: https://doi.org/10.1038/nature18848
 [nov21prasad]: https://doi.org/10.1038/537S63a
 [nov20zik]: https://doi.org/10.1001/jamaoncol.2016.3283

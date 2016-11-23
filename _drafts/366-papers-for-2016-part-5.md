@@ -12,6 +12,8 @@ November papers!
 
 <!--break-->
 
+55. **Nov 22** Honda, Kenya, and Dan R. Littman. ["The microbiota in adaptive
+    immune homeostasis and disease."][nov22honda] *Nature* 535.7610 (2016): 75-84.
 54. **Nov 21** Prasad, Vinay. ["Perspective: The precision-oncology
     illusion."][nov21prasad] *Nature* 537.7619 (2016): S63-S63.
 53. **Nov 20** Zikmund-Fisher, Brian J. ["When 'Actionable' Genomic Sequencing
@@ -45,6 +47,7 @@ November papers!
 42. **Nov 07** Thaiss, Christoph A., et al. ["The microbiome and innate
     immunity."][nov07thaiss] *Nature* 535.7610 (2016): 65-74.
 
+[nov22honda]: https://doi.org/10.1038/nature18848
 [nov21prasad]: https://doi.org/10.1038/537S63a
 [nov20zik]: https://doi.org/10.1001/jamaoncol.2016.3283
 [nov20zhang]: https://doi.org/10.1001/jama.280.19.1690

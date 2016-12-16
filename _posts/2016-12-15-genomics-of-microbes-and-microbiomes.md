@@ -12,7 +12,7 @@ published: true
 Listed below is a brief overview of the talk and the papers referenced
 throughout the talk.
 
-<!-- break -->
+<!--break-->
 
 Recently, the NHGRI published a series on Current Topics in Genome Analysis.
 One of the talks was of special interest to me, [Genomics of Microbes and

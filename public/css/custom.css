@@ -13,11 +13,15 @@
 }
 
 //.masthead-title {
-    //padding-left: 3rem; 
+    //padding-left: 3rem;
 //}
 
 @media (max-width: 48rem) {
     h3.masthead-title {
         padding-left: 3rem;
-    }   
-} 
+    }
+}
+
+.text-center {
+    text-align: center;
+}

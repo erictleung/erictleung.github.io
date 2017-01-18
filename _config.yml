@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Permalinks
-permalink:        /:title.html
+permalink:        /:title
 
 # Setup
 title:            Eric T Leung
@@ -16,6 +16,7 @@ author:
   email:          leung@erictleung.com
 
 paginate:         5
+paginate_path:    "blog/page:num"
 
 # Custom vars
 version:          1.0.0

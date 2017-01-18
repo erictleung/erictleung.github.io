@@ -4,43 +4,26 @@ title: Home
 description: Eric Leung is a PhD student in the Department of Medical Informatics & Clinical Epidemiology at Oregon Health & Science University
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+<h3>I'm a computational biology graduate student. I like sharing knowledge and
+contributing to open-source projects.</h3>
 
-    <span class="post-date">
-        <span class="octicon octicon-calendar"></span>
-        {{ post.date | date_to_string }}
-    </span>
+<hr/>
 
-    {{ post.content | split:'<!--break-->' | first }}
-    {% if post.content contains '<!--break-->' %}
-        ...
-        <a href="{{post.url}}">Read more</a>
-    {% endif %}
+<p style="text-align: center">Computational Biologist - Web Developer - Educator</p>
 
-  </div>
-  {% endfor %}
-</div>
+<h3>Projects</h3>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="/">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+<ul>
+    <li>
+      <a href="//github.com/freeCodeCamp/freeCodeCamp">freeCodeCamp</a> -
+      open-source curriculum and community to teach web development
+    </li>
+    <li>
+      <a href="//github.com/erictleung/lalg">lalg</a> - my Python package to
+      facilitate learning of linear algebra
+    </li>
+    <li>
+      <a href="//github.com/erictleung/poofsi">poofsi</a> - my R package to
+      teach principles of statistics based on a Nature series of articles
+    </li>
+</ul>

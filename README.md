@@ -1,4 +1,4 @@
-# erictleung.github.io
+# [erictleung.github.io](https://erictleung.github.io)
 
 Herein lies the source code of my website.
 
@@ -14,6 +14,7 @@ Herein lies the source code of my website.
 
 - Ruby
 - RubyGems
+- Jekyll
 
 ```shell
 gem install jekyll
@@ -32,7 +33,7 @@ jekyll serve
 ## Modified Theme
 
 The theme for the site is modified from [lanyon][lanyon]. A short description
-of it is
+of it is:
 
 > Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places
 > content first by tucking away navigation in a hidden drawer. It's based on

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 366 Papers for 2016
+title: 366 Papers for 2016 Part 6
 category:
   - Graduate School
 tags:
-  - paper
+  - papers
   - twitter
 ---
 

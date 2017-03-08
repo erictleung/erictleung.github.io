@@ -12,13 +12,20 @@ Herein lies the source code of my website.
 
 ## Prerequisites
 
-- Ruby
+- Ruby (>= 2.1.0)
 - RubyGems
-- Jekyll
+- Jekyll (== 3.4.1)
 
 ```shell
 gem install jekyll
 ```
+
+More information on using Jekyll and gitHub Pages can be found
+[here][github_jekyll]. GitHub Pages has a list of their dependencies that can
+be found [here][github_prereqs].
+
+[github_jekyll]: https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/
+[github_prereqs]: https://pages.github.com/versions/
 
 
 ## Installation and Starting

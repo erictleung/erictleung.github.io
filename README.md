@@ -18,6 +18,7 @@ Herein lies the source code of my website.
 
 ```shell
 gem install jekyll
+gem install bundler
 ```
 
 More information on using Jekyll and gitHub Pages can be found
@@ -33,7 +34,8 @@ be found [here][github_prereqs].
 ```shell
 git clone https://github.com/erictleung/erictleung.github.io.git
 cd erictleung.github.io
-jekyll serve
+bundle install # Install dependencies
+bundle exec jekyll serve
 ```
 
 

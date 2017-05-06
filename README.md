@@ -1,4 +1,4 @@
-# [erictleung.github.io](https://erictleung.github.io)
+# [erictleung.github.io](https://erictleung.github.io) [![Build Status](https://travis-ci.org/erictleung/erictleung.github.io.svg?branch=master)](https://travis-ci.org/erictleung/erictleung.github.io)
 
 Herein lies the source code of my website.
 

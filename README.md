@@ -38,6 +38,13 @@ bundle install # Install dependencies
 bundle exec jekyll serve
 ```
 
+You can find more information about the static site generator, Jekyll,
+[here][jekyll]. Jekyll uses various to help template information about, and
+[here][jekyllcheat] is a Jekyll cheat sheet.
+
+[jekyll]: http://jekyllrb.com/docs/home/
+[jekyllcheat]: https://learn.cloudcannon.com/jekyll-cheat-sheet/
+
 
 ## Modified Theme
 

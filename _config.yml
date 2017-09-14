@@ -6,8 +6,9 @@ highlighter:      rouge
 permalink:        /:title
 
 # Setup
-title:            Eric T Leung
-description:      'PhD student in bioinformatics and computational biology. Follow me on Twitter at <a href="https://twitter.com/erictleung">@erictleung</a>'
+title:            Eric Leung
+description:      Eric Leung is a computational biology graduate student in the Department of Medical Informatics and Clinical Epidemiology at Oregon Health &amp; Science University
+tagline:          PhD student in bioinformatics and computational biology. Follow me on Twitter at <a href="https://twitter.com/erictleung">@erictleung</a>
 url:              https://erictleung.com
 
 author:

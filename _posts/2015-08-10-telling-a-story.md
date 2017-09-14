@@ -7,6 +7,7 @@ tags:
     - storytelling
     - bioinformatics
     - learning
+redirect_from: /education/2015/08/10/telling-a-story/
 ---
 
 <span class="octicon octicon-clock"></span> Reading Time: 5 minutes

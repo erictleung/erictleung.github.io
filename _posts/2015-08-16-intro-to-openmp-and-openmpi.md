@@ -2,6 +2,7 @@
 layout: post
 title: Introduction to OpenMP and Open MPI
 category: linux
+redirect_from: /linux/2015/08/16/intro-to-openmp-and-openmpi/
 ---
 
 Computers today are getting faster and more powerful everyday. In the past, the

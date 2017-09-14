@@ -27,7 +27,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-mentions
-  - jekyll-paginate
+  - jekyll-seo-tag
 
 # Page List
 pages_list:

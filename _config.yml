@@ -23,7 +23,7 @@ version:          1.0.0
 github:           https://github.com/erictleung
 
 # Ruby plugins
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-mentions

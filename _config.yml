@@ -11,11 +11,13 @@ description:      Code, Data, Microbiome
 tagline:          PhD student in bioinformatics and computational biology. Follow me on Twitter at <a href="https://twitter.com/erictleung">@erictleung</a>
 url:              https://erictleung.com
 
+# Author information
 author:
   name:           'Eric Leung'
   url:            https://twitter.com/erictleung
   email:          leung@erictleung.com
 
+# Paging specification
 paginate:         5
 paginate_path:    "blog/page:num"
 
@@ -41,6 +43,17 @@ pages_list:
 footer-links:
   github: erictleung
   twitter: erictleung
+
+# Social media information
+twitter:
+  username: erictleung
+social:
+  name: Eric Leung
+  links:
+    - https://twitter.com/erictleung
+    - https://www.linkedin.com/in/erictleung
+    - https://github.com/erictleung
+    - https://www.instagram.com/erictleung
 
 # Default extension for new posts and pages
 post_ext: md

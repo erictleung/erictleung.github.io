@@ -21,7 +21,7 @@ gem install jekyll
 gem install bundler
 ```
 
-More information on using Jekyll and gitHub Pages can be found
+More information on using Jekyll and GitHub Pages can be found
 [here][github_jekyll]. GitHub Pages has a list of their dependencies that can
 be found [here][github_prereqs].
 

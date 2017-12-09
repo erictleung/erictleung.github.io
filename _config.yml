@@ -31,6 +31,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-mentions
   - jekyll-seo-tag
+  - jekyll-feed
 
 # Page List
 pages_list:

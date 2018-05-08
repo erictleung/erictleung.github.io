@@ -32,10 +32,17 @@ be found [here][github_prereqs].
 ## Installation and Starting
 
 ```shell
+# Setup
 git clone https://github.com/erictleung/erictleung.github.io.git
 cd erictleung.github.io
 bundle install # Install dependencies
+
+# Serve live site
 bundle exec jekyll serve
+
+# Serve site with draft blog posts
+# https://jekyllrb.com/docs/drafts/
+bundle exec jekyll serve --drafts
 ```
 
 You can find more information about the static site generator, Jekyll,

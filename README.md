@@ -65,6 +65,19 @@ of it is:
 [lanyon]: https://github.com/poole/lanyon
 
 
+### Inserting Images
+
+I've created a small shortcut to help embed images more semantically.
+
+```html
+{% include image.html
+   url="asset/image_path_here.jpg"
+   alt="Put alt text here"
+   caption="This is the caption for the image"
+%}
+```
+
+
 ## License
 
 MIT

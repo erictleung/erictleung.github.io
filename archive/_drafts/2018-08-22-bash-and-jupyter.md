@@ -34,6 +34,31 @@ conda create -n py3 python=3 ipython notebook
 Now, this environment will allow you to create
 
 
+## Notebook Metadata
+
+```json
+{
+  "kernelspec": {
+    "name": "python3",
+    "display_name": "Python 3",
+    "language": "python"
+  },
+  "language_info": {
+    "name": "python",
+    "version": "3.6.6",
+    "mimetype": "text/x-python",
+    "codemirror_mode": {
+      "name": "ipython",
+      "version": 3
+    },
+    "pygments_lexer": "ipython3",
+    "nbconvert_exporter": "python",
+    "file_extension": ".py"
+  }
+}
+```
+
+
 ## Jupyter Notebook Extensions
 
 https://www.kdnuggets.com/2018/03/top-5-best-jupyter-notebook-extensions.html

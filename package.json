@@ -1,16 +1,30 @@
 {
-  "name": "gatsby-starter-hello-world",
-  "description": "Gatsby hello world starter",
+  "name": "erictleung.github.io",
+  "description": "Eric T Leung's Personal Website",
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
     "start": "npm run develop",
     "build": "gatsby build",
-    "serve": "gatsby serve"
+    "serve": "gatsby serve",
+    "format": "prettier --trailing-comma es5 --write 'src/**/*.js'"
   },
   "dependencies": {
     "gatsby": "^2.0.33",
+    "gatsby-image": "^2.0.20",
+    "gatsby-plugin-sharp": "^2.0.12",
+    "gatsby-plugin-typography": "^2.2.1",
+    "gatsby-remark-copy-linked-files": "^2.0.6",
+    "gatsby-remark-images": "^2.0.6",
+    "gatsby-transformer-remark": "^2.1.12",
+    "gatsby-transformer-sharp": "^2.1.8",
     "react": "^16.5.1",
-    "react-dom": "^16.5.1"
+    "react-dom": "^16.5.1",
+    "react-typography": "^0.16.13",
+    "typography": "^0.16.17",
+    "typography-theme-lincoln": "^0.15.11"
+  },
+  "devDependencies": {
+    "prettier": "1.15.2"
   }
 }

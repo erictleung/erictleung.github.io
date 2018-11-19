@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Eric T Leung's Personal Website`,
+    title: `Eric Leung`,
     siteUrl: `https://erictleung.com`,
     description: `Eric T Leung is a PhD candidate in biomedical informatics and
     microbiome science`,

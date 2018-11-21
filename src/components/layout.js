@@ -1,6 +1,8 @@
 import React from "react"
 import { css } from "react-emotion"
 import { StaticQuery, graphql, Link } from "gatsby"
+import { FaGithub, FaTwitter, FaLinkedin } from "react-icons/fa"
+import { IconContext } from "react-icons"
 
 import { rhythm } from "../utils/typography"
 
@@ -28,7 +30,10 @@ export default ({ children }) => (
       maxWidth: 650;
       padding: ${rhythm(2)};
       padding-top: ${rhythm(1.5)};
-      `}>
+      display: flex;
+      min-height: 100vh;
+      flex-direction: column;
+    `}>
 
       <header style={{ marginBottom: `1.5rem` }}>
 
@@ -46,7 +51,38 @@ export default ({ children }) => (
         </ul>
       </header>
 
-      {children}
+      <div className={css`
+        flex-grow: 1;
+      `}>
+        {children}
+      </div>
+
+      <footer className={css`
+        height: 50px;
+        margin: 4em 0 0;
+        padding: 2em 0;
+        text-align: center;
+        flex-shrink: 0;
+      `}>
+
+        <div className={css`
+          display: block;
+        `}>
+
+          <IconContext.Provider value={{ size: "2em" }}>
+            <FaGithub />
+          </IconContext.Provider>
+
+          <IconContext.Provider value={{ size: "2em" }}>
+            <FaTwitter />
+          </IconContext.Provider>
+
+          <IconContext.Provider value={{ size: "2em" }}>
+            <FaLinkedin />
+          </IconContext.Provider>
+
+          </div>
+        </footer>
 
     </div>
   )}

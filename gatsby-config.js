@@ -19,8 +19,8 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `src`,
-        path: `${__dirname}/src/`,
+        name: `posts`,
+        path: `${__dirname}/src/posts`,
       },
     },
     {
@@ -32,7 +32,10 @@ module.exports = {
     {
       resolve: `gatsby-transformer-remark`,
       options: {
-        plugins: ["gatsby-remark-copy-linked-files"]
+        plugins: [
+          `gatsby-remark-copy-linked-files`,
+          `gatsby-remark-reading-time`
+        ]
       }
     },
     `gatsby-transformer-sharp`,

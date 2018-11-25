@@ -39,5 +39,17 @@ module.exports = {
       }
     },
     `gatsby-transformer-sharp`,
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: "Eric Leung's Personal Website",
+        short_name: "Eric Leung",
+        start_url: "/",
+        background_color: "#6b37bf",
+        theme_color: "#6b37bf",
+        display: "minimal-ui",
+        icon: "src/assets/site-favicon.png",
+      }
+    }
   ]
 }

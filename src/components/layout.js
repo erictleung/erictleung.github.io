@@ -3,6 +3,7 @@ import { css } from "react-emotion"
 import { StaticQuery, graphql, Link } from "gatsby"
 import { FaGithub, FaTwitter, FaLinkedin } from "react-icons/fa"
 import { IconContext } from "react-icons"
+import { Helmet } from "react-helmet"
 
 import { rhythm } from "../utils/typography"
 
@@ -34,6 +35,12 @@ export default ({ children }) => (
       min-height: 100vh;
       flex-direction: column;
     `}>
+
+      <Helmet>
+        <meta charSet="utf-8"/>
+        <title>My Title</title>
+        <link rel="canonical" href="https://erictleung.com" />
+      </Helmet>
 
       <header style={{ marginBottom: `1.5rem` }}>
 

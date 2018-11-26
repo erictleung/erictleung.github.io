@@ -40,6 +40,8 @@ export default ({ children }) => (
         <meta charSet="utf-8"/>
         <title>My Title</title>
         <link rel="canonical" href="https://erictleung.com" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+        <meta name="HandheldFriendly" content="true" />
       </Helmet>
 
       <header style={{ marginBottom: `1.5rem` }}>

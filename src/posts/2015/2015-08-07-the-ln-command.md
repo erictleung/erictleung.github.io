@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The ln Command
+date: 2015-08-07
 category: linux
 ---
 

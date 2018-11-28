@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Corners, Edges, and the Boundary
+date: 2016-04-05
 category:
     - Software Engineering
 tags:

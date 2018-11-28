@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Genomics of Microbes and Microbiomes Overview
+date: 2016-12-15
 category:
     - papers
 tags:
     - youtube
     - papers
-published: true
 ---
 
 Listed below is a brief overview of the talk and the papers referenced

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introduction to OpenMP and Open MPI
+date: 2015-08-16
 category: linux
 redirect_from: /linux/2015/08/16/intro-to-openmp-and-openmpi/
 ---

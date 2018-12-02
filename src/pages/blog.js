@@ -1,16 +1,15 @@
-import React from "react"
-import { Link, graphql } from "gatsby"
-import { css } from "react-emotion"
+import React from "react";
+import { Link, graphql } from "gatsby";
+import { css } from "react-emotion";
 
-import { rhythm } from "../utils/typography"
-import Layout from "../components/layout"
+import { rhythm } from "../utils/typography";
+import Layout from "../components/layout";
 
 export default ({ data }) => {
-  console.log(data)
+  console.log(data);
   return (
     <Layout>
       <div>
-
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <div key={node.id}>
             <Link
@@ -20,13 +19,12 @@ export default ({ data }) => {
                 color: inherit;
               `}
             >
-
               <h3
                 className={css`
-                  margin-bottom: ${rhythm(1/4)};
+                  margin-bottom: ${rhythm(1 / 4)};
                 `}
               >
-                {node.frontmatter.title}{ " " }
+                {node.frontmatter.title}{" "}
                 <span
                   className={css`
                     color: #bbb;
@@ -37,14 +35,13 @@ export default ({ data }) => {
               </h3>
 
               <p>{node.excerpt}</p>
-
             </Link>
           </div>
         ))}
       </div>
     </Layout>
-  )
-}
+  );
+};
 
 export const query = graphql`
   query {
@@ -65,4 +62,4 @@ export const query = graphql`
       }
     }
   }
-`
+`;

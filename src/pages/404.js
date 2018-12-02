@@ -1,7 +1,7 @@
-import React from "react"
-import { Link } from "gatsby"
+import React from "react";
+import { Link } from "gatsby";
 
-import Layout from "../components/layout"
+import Layout from "../components/layout";
 
 class NotFoundPage extends React.Component {
   render() {
@@ -14,8 +14,8 @@ class NotFoundPage extends React.Component {
           try finding it again.
         </p>
       </Layout>
-    )
+    );
   }
 }
 
-export default NotFoundPage
+export default NotFoundPage;

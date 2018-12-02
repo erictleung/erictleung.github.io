@@ -1,9 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Eric Leung`,
+    title: 'Eric Leung',
+    author: 'Eric Leung',
     siteUrl: `https://erictleung.com`,
-    description: `Eric T Leung is a PhD candidate in biomedical informatics and
-    microbiome science`,
+    description: `
+      Eric T Leung is a PhD candidate in biomedical informatics and microbiome
+      science.
+    `,
     menuLinks: [
       {
         name: `Home`,
@@ -13,7 +16,16 @@ module.exports = {
         name: `About`,
         link: `/about`
       },
-    ]
+      {
+        name: `Blog`,
+        link: `/blog`
+      },
+    ],
+    social: {
+      twitter: 'https://twitter.com/erictleung',
+      linkedin: 'https://www.linkedin.com/in/erictleung/',
+      github: 'https://github.com/erictleung',
+    },
   },
   plugins: [
     {

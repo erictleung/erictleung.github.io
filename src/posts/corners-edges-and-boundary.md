@@ -1,9 +1,8 @@
 ---
-layout: post
-title: Corners, Edges, and the Boundary
-date: 2016-04-05
+title: "Corners, Edges, and the Boundary"
+date: "2016-04-05"
 category:
-    - Software Engineering
+    - software engineering
 tags:
     - software
     - engineering
@@ -13,8 +12,6 @@ tags:
 I've recently gotten more interested in software engineering, despite having
 taken a course on it previously. As an aspiring computational biologist, I find
 myself writing more code. So naturally, software engineering concepts pop up.
-
-<!--break-->
 
 Not long ago, I had a conversation with a friend and we brought up the term
 "edge cases." In another setting, I saw someone talk about "corner cases." A

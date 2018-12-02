@@ -1,8 +1,7 @@
 ---
-layout: post
-title: Linuxbrew - For When You Don't Have Root Access
+title: "Linuxbrew - For When You Don't Have Root Access"
 category: linux
-date: 2015-07-06
+date: "2015-07-06"
 ---
 
 I have access to a Linux server, but I inconveniently do not have any root

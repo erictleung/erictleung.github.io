@@ -1,17 +1,14 @@
 ---
-layout: post
-title: 366 Papers for 2016 Part 4
-date: 2016-11-01
+title: "366 Papers for 2016 Part 4"
+date: "2016-11-01"
 category:
-  - Graduate School
+  - graduate school
 tags:
   - papers
   - twitter
 ---
 
 Another round of papers!
-
-<!--break-->
 
 41. **Oct 31** Naegle, Kristen, Nancy R. Gough, and Michael B. Yaffe. ["Criteria
     for biological reproducibility: what does" n" mean?."][oct31naegle] *Science

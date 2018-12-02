@@ -1,7 +1,6 @@
 ---
-layout: post
-title: Introduction to OpenMP and Open MPI
-date: 2015-08-16
+title: "Introduction to OpenMP and Open MPI"
+date: "2015-08-16"
 category: linux
 redirect_from: /linux/2015/08/16/intro-to-openmp-and-openmpi/
 ---
@@ -12,8 +11,6 @@ GHz) of the computer. This, however, also increases the power consumption of the
 computer. This increasing power consumption is not sustainable because with more
 power, the most heat that is generated and even more power is needed to cool
 down the processors. Thus, faster hardware is not the answer.
-
-<!--break-->
 
 The solution for faster computers has now shifted from improving the hardware to
 optimizing the software. Instead of just one very fast processor, there would be

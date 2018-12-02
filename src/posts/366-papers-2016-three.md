@@ -1,17 +1,14 @@
 ---
-layout: post
-title: 366 Papers for 2016 Part 3
-date: 2016-10-04
+title: "366 Papers for 2016 Part 3"
+date: "2016-10-04"
 category:
-  - Graduate School
+  - graduate school
 tags:
   - papers
   - twitter
 ---
 
 Here are the papers I've read through in September.
-
-<!--break-->
 
 As my qualifying exam is coming up, I've chosen these papers to be more focused
 on computational methods I may run into or I was interested in their

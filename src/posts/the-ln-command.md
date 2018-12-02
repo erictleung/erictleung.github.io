@@ -1,11 +1,8 @@
 ---
-layout: post
-title: The ln Command
-date: 2015-08-07
+title: "The `ln` Command"
+date: "2015-08-07"
 category: linux
 ---
-
-<span class="octicon octicon-clock"></span> Reading Time: 5 minutes
 
 The `ln` command, whose function is to make links, confused me for the longest
 time. Here I will give an explanation of how this command works and why I will
@@ -17,7 +14,7 @@ Before going into what links are, let me briefly take you back to how data is
 stored. Every file on your computer is linked to a physical place on your
 hard drive with a particular address, like for your house. This address is
 unique to your files so that your computer can map your hard drive to the file
-on your desktop. 
+on your desktop.
 
 ## Where does `ln` come in?
 
@@ -27,8 +24,6 @@ large data files in another directory but I would like to call everything within
 my own project folder to make it easier on my scripts. I could copy all of the
 data to my own folder but that would make unnecessary duplications of the data.
 Here is where `ln` comes in.
-
-<!--break-->
 
 I can create a link file in my own project folder that links to the original
 data so that it looks like I have the data right in my folder. This link file

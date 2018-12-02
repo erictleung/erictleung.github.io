@@ -1,17 +1,14 @@
 ---
-layout: post
-title: 366 Papers for 2016 Part 5
-date: 2016-12-03
+title: "366 Papers for 2016 Part 5"
+date: "2016-12-03"
 category:
-  - Graduate School
+  - "graduate school"
 tags:
   - papers
   - twitter
 ---
 
 November papers!
-
-<!--break-->
 
 57. **Nov 23** Naik, Shruti, et al. ["Compartmentalized control of skin immunity
     by resident commensals."][nov23naik] *Science* 337.6098 (2012): 1115-1119.

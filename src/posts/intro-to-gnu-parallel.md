@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Introduction to GNU Parallel
+title: "Introduction to GNU Parallel"
 category: linux
+date: "2015-08-06"
 ---
 
 GNU `parallel` is a shell tool that allows you to execute jobs in parallel on one

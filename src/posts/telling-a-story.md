@@ -1,16 +1,14 @@
 ---
-layout: post
 title: "Telling a Story"
+date: "2015-08-10"
 category:
-    - Education
+    - education
 tags:
     - storytelling
     - bioinformatics
     - learning
 redirect_from: /education/2015/08/10/telling-a-story/
 ---
-
-<span class="octicon octicon-clock"></span> Reading Time: 5 minutes
 
 Today, I thought about some advice professors have given me in the past while
 doing course work. Several have told me when giving a presentation or doing
@@ -29,8 +27,6 @@ bioinformatics course. Our professor assigned each of us a gene to study and to
 such as: using BLAST to perform sequence alignment; performing multiple sequence
 alignments using MUSCLE to find homology; and a network analysis of our assigned
 gene and it's expressed protein interactions with other genes products.
-
-<!--break-->
 
 ## Let's make a story
 

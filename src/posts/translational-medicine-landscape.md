@@ -1,7 +1,6 @@
 ---
-layout: post
-title: Translational Medicine Talk Summary
-date: 2015-09-17
+title: "Translational Medicine Talk Summary"
+date: "2015-09-17"
 category: genomics
 tags:
 - health it
@@ -9,7 +8,6 @@ tags:
 - population
 - big data
 ---
-
 
 I recently attended the [joint conference][ismbeccb2015] between [International
 Conference on Intelligent Systems for Molecule Biology][ismb] and [European
@@ -37,8 +35,6 @@ applying it to the "bedside" where it affects patients, public health, and
 others fields such as policy. This is a very powerful approach and as Winston
 Hide puts it, "we're dealing with people, bringing quantitative information to
 people."
-
-<!--break-->
 
 ## Beginnings
 

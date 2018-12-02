@@ -1,17 +1,14 @@
 ---
-layout: post
-title: 366 Papers for 2016 Part 2
-date: 2016-07-19
+title: "366 Papers for 2016 Part 2"
+date: "2016-07-19"
 category:
-  - Graduate School
+  - graduate school
 tags:
   - papers
   - twitter
 ---
 
 A break from my endeavor, but here's Part 2 to my 366 Papers for 2016!
-
-<!--break-->
 
 # Papers Log
 

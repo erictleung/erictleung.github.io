@@ -1,7 +1,6 @@
 ---
-layout: post
-title: Genomics of Microbes and Microbiomes Overview
-date: 2016-12-15
+title: "Genomics of Microbes and Microbiomes Overview"
+date: "2016-12-15"
 category:
     - papers
 tags:
@@ -11,8 +10,6 @@ tags:
 
 Listed below is a brief overview of the talk and the papers referenced
 throughout the talk.
-
-<!--break-->
 
 Recently, the NHGRI published a series on Current Topics in Genome Analysis.
 One of the talks was of special interest to me, [Genomics of Microbes and

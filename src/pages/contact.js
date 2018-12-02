@@ -6,6 +6,8 @@ import Layout from "../components/layout"
 export default () => (
   <Layout>
     <Header headerText="Contact"></Header>
-    <p>Send us a message!</p>
+    <p>
+      You can find me on <a href="https://twitter.com/erictleung">Twitter</a>.
+    </p>
   </Layout>
 )

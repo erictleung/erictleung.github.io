@@ -37,7 +37,7 @@ plugins:
 pages_list:
   About: '/about'
   Blog: '/blog'
-  Archive: '/archive'
+  Misc: '/misc'
   Feed: '/feed.xml'
 
 # Footer links

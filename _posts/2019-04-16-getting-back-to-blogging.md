@@ -7,8 +7,6 @@ tags: [reflection, blogging, perfectionism]
 
 I'm inspired to start blogging again. And to make it less stressful.
 
-<!--break-->
-
 Last week, I attended a book even for
 [Austin Kleon's](https://austinkleon.com/) latest book,
 [Keep Going](https://austinkleon.com/keepgoing).
@@ -66,3 +64,16 @@ So my new goals for blogging are to
 - consolidate my learning by sharing in my own words
 - share useful things my past self would like to have known
 
+## Things to share
+
+This section I'll share some things that caught my eye today.
+
+Google's
+[Applied Digital Skills](https://applieddigitalskills.withgoogle.com/s/en/home)
+page where they teach practical digital skills for doing projects and
+collaborating with Google tools.
+
+In finding others who like to blog for the sake of it,
+I failed to find a blog post by Yihui Xie on him blogging.
+But I did run across a way to program RStudio to type things for you.
+[See here](https://yihui.name/en/2018/02/typing-fast/) for the code.

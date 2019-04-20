@@ -116,16 +116,16 @@ is a statistical test for **categorical data**.
 
 The Chi-squared statistic is calculated as
 
-$$\Chi^2 = \sum^n_{i=1} = \frac{(O_i - E_i)^2}{E_i}$$
+$$\chi^2 = \sum^n_{i=1} = \frac{(O_i - E_i)^2}{E_i}$$
 
-where $E_i$ is calculated as
+where $$E_i$$ is calculated as
 (row total times column total)/total samples.
 
 For two-dimensional data (i.e, contingency tables), this is derived from
 
 $$N \times p_i \times p_j$$
 
-where $p_i,p_j$ are the marginal probability for each column and row.
+where $$p_i,p_j$$ are the marginal probability for each column and row.
 
 Some quick links for more:
 

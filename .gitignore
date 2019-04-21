@@ -1,5 +1,5 @@
-
 *.swp
-
 _site/
-
+public/
+node_modules/
+.cache/

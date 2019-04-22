@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twitter notes of #SACMDA3
+title: Twitter notes of SACMDA3
 categories: [conferences, microbiome]
 tags: [twitter, conferences, microbiome, statistics]
 ---

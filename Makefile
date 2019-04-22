@@ -4,8 +4,8 @@ all :
 	bundle exec jekyll serve
 
 draft :
-	touch ./_drafts/$(DATE)-tba.md
-	vim ./_drafts/$(DATE)-tba.md
+	@read -p "Slug?: " SLUG;\
+	vim _drafts/$(DATE)-$$SLUG.md
 
 post :
 	@read -p "Slug?: " SLUG;\

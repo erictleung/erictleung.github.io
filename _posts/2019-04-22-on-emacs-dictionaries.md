@@ -14,10 +14,9 @@ In my Emacs configuration, I use
 It is an on-the-fly spell checker and the program is uses to
 [Aspell](http://aspell.net/) to spell check.
 Another similar program that can be used is
-[Ispell](https://www.cs.hmc.edu/~geoff/ispell.html)[^ispell]
+[Ispell](https://www.cs.hmc.edu/~geoff/ispell.html)[^ispell].
 
-[^ispell]: Aspell works better with English, while Ispell is more international
-  https://www.cs.hmc.edu/~geoff/ispell.html#aspell
+[^ispell]: Aspell works better with English, while Ispell is more international; see [https://www.cs.hmc.edu/~geoff/ispell.html#aspell]().
 
 To create your own personal dictionary,
 create a file `.aspell.lang.pws`, where `lang` is a

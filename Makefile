@@ -5,6 +5,7 @@ all :
 
 draft :
 	@read -p "Slug?: " SLUG;\
+	cp _drafts/template.md _drafts/$(DATE)-$$SLUG.md;\
 	vim _drafts/$(DATE)-$$SLUG.md
 
 post :

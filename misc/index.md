@@ -16,3 +16,7 @@ Here are some links and miscellaneous things I've found helpful.
   about academia, productivity hacks, and programming
 - [Austin Kleon](https://austinkleon.com/): writer who draws and gives advice
   on how to sustainably to create
+- [Small Things Considered](https://schaechter.asmblog.org/schaechter/): blog
+  Moselio (Elio) Schaechter & Roberto Kolter about microbial life
+- [The Thesis Whisperer](https://thesiswhisperer.com/): written by Professor
+  Inger Mewburn on doing a PhD and completing a dissertation

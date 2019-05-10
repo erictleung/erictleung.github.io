@@ -23,7 +23,7 @@ Previously, I was at the
 where I received dual Bachelor degrees in
 [biochemistry](//www.ou.edu/cas/chemistry.html)
 and
-[mathematics](//www.math.ou.edu/)
+[mathematics](//www.math.ou.edu/).
 
 In my free time, I like to fold origami, contribute to open-source projects,
 volunteer locally, and learn foreign and programming languages.

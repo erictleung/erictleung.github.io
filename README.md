@@ -56,7 +56,7 @@ bundle exec jekyll serve --drafts
 ```
 
 You can find more information about the static site generator, Jekyll,
-[here][jekyll]. Jekyll uses various to help template information about, and
+[here][jekyll]. Jekyll uses various syntax to help template information, so
 [here][jekyllcheat] is a Jekyll cheat sheet.
 
 [jekyll]: http://jekyllrb.com/docs/home/

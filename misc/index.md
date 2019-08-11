@@ -22,3 +22,5 @@ Here are some links and miscellaneous things I've found helpful.
   Inger Mewburn on doing a PhD and completing a dissertation
 - [The Morning Paper](https://blog.acolyer.org/) - Regular summaries of
   breaking computer science research by Adrian Colyer.
+- [Alex Vermeer](https://alexvermeer.com/) - Blog with great resources on
+  self-improvement and life hacking projects for getting things done.

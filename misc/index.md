@@ -24,3 +24,5 @@ Here are some links and miscellaneous things I've found helpful.
   breaking computer science research by Adrian Colyer.
 - [Alex Vermeer](https://alexvermeer.com/) - Blog with great resources on
   self-improvement and life hacking projects for getting things done.
+- [Wait But Why](https://waitbutwhy.com/) - Fascinating posts on a variety of
+  topics

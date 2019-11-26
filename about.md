@@ -30,6 +30,16 @@ volunteer locally, and learn foreign and programming languages.
 
 ### My Projects
 
+- [`unnestIfElse`](//github.com/erictleung/unnestIfElse) - my RStudio addin to
+  quickly and roughly convert nested `base::ifelse()` statements to
+  `dplyr::case_when()`
+- [`disneyplus-twitter-analysis`](//github.com/erictleung/disneyplus-twitter-analysis)
+  - Twitter analysis of Disney+'s announcement for the TV series and movies
+  they will stream
+- [`format-sakai-upload`](//github.com/erictleung/format-sakai-upload) - Python
+  script to help automate bulk upload of graded Jupyter notebook assignments
+- [`NLMITC19`](//github.com/erictleung/NLMITC19) - Twitter analysis of the
+  `#NLMITC19` hashtag on Twitter for the Informatics Training Conference
 - [`poofsi`](//github.com/erictleung/poofsi) - my R package to teach principles
 of statistics based on a Nature series of articles
 - [`lalg`](//github.com/erictleung/lalg) - my Python package to facilitate
@@ -41,6 +51,9 @@ of statistics based on a Nature series of articles
 
 ### Projects I Contribute To
 
+- [`how-to-contribute-to-open-source`](//github.com/freeCodeCamp/how-to-contribute-to-open-source) -
+  I actively maintain this list of resources to help new coders to get involved in
+  open source project contributions
 - [`freeCodeCamp`](//github.com/freeCodeCamp/freeCodeCamp) - an open-source
   curriculum and community to teach web development; I've helped edit lessons
   to be more clear and I've written and help contribute to the regular
@@ -55,6 +68,3 @@ of statistics based on a Nature series of articles
   helped clean up the 2017 new coder's survey using R
 - [freeCodeCamp's 2018 New Coder Survey](//github.com/freeCodeCamp/2018-new-coder-survey) -
   helped clean up the 2018 new coder's survey using R
-- [`how-to-contribute-to-open-source`](//github.com/freeCodeCamp/how-to-contribute-to-open-source) -
-  I help maintain this list of resources to help new coders to get involved in
-  open source project contributions

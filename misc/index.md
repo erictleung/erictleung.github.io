@@ -20,9 +20,9 @@ Here are some links and miscellaneous things I've found helpful.
   Moselio (Elio) Schaechter & Roberto Kolter about microbial life
 - [The Thesis Whisperer](https://thesiswhisperer.com/): written by Professor
   Inger Mewburn on doing a PhD and completing a dissertation
-- [The Morning Paper](https://blog.acolyer.org/) - Regular summaries of
+- [The Morning Paper](https://blog.acolyer.org/): Regular summaries of
   breaking computer science research by Adrian Colyer.
-- [Alex Vermeer](https://alexvermeer.com/) - Blog with great resources on
+- [Alex Vermeer](https://alexvermeer.com/): Blog with great resources on
   self-improvement and life hacking projects for getting things done.
-- [Wait But Why](https://waitbutwhy.com/) - Fascinating posts on a variety of
+- [Wait But Why](https://waitbutwhy.com/): Fascinating posts on a variety of
   topics

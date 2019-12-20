@@ -4,7 +4,8 @@ title: Miscellaneous
 description: Eric Leung is a PhD student in Bioinformatics and Computational Biology in the Department of Medical Informatics and Clinical Epidemiology at the Oregon Health &amp; Science University
 ---
 
-Here are some links and miscellaneous things I've found helpful.
+Here are some links and miscellaneous things I've found helpful or find
+interesting.
 
 **Blogs I like**
 
@@ -26,3 +27,9 @@ Here are some links and miscellaneous things I've found helpful.
   self-improvement and life hacking projects for getting things done.
 - [Wait But Why](https://waitbutwhy.com/): Fascinating posts on a variety of
   topics
+
+**Interesting Wikipedia pages**
+
+- [List of common misconceptions](https://en.wikipedia.org/wiki/List_of_common_misconceptions)
+- [List of paradoxes](https://en.wikipedia.org/wiki/List_of_paradoxes)
+- [List of lists of lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists)

@@ -33,3 +33,4 @@ interesting.
 - [List of common misconceptions](https://en.wikipedia.org/wiki/List_of_common_misconceptions)
 - [List of paradoxes](https://en.wikipedia.org/wiki/List_of_paradoxes)
 - [List of lists of lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists)
+- [List of unusual articles](https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles)

@@ -12,9 +12,18 @@ Herein lies the source code of my website.
 
 ## Prerequisites
 
-- Ruby (>= 2.1.0)
-- RubyGems
-- Jekyll (== 3.4.1)
+Jekyll sites require Ruby (>= 2.2.5).
+
+See [guides][guides] on installation.  Here's an example:
+
+```shell
+echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+```
+
+Now install software.
 
 ```shell
 gem install jekyll
@@ -25,6 +34,7 @@ More information on using Jekyll and GitHub Pages can be found
 [here][github_jekyll]. GitHub Pages has a list of their dependencies that can
 be found [here][github_prereqs].
 
+[guides]: https://jekyllrb.com/docs/installation/#guides
 [github_jekyll]: https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/
 [github_prereqs]: https://pages.github.com/versions/
 
@@ -46,7 +56,7 @@ bundle exec jekyll serve --drafts
 ```
 
 You can find more information about the static site generator, Jekyll,
-[here][jekyll]. Jekyll uses various to help template information about, and
+[here][jekyll]. Jekyll uses various syntax to help template information, so
 [here][jekyllcheat] is a Jekyll cheat sheet.
 
 [jekyll]: http://jekyllrb.com/docs/home/

@@ -18,7 +18,7 @@ author:
   email:          leung@erictleung.com
 
 # Paging specification
-paginate:         5
+paginate:         10
 paginate_path:    "blog/page:num"
 
 # Custom vars
@@ -37,7 +37,7 @@ plugins:
 pages_list:
   About: '/about'
   Blog: '/blog'
-  Archive: '/archive'
+  Misc: '/misc'
   Feed: '/feed.xml'
 
 # Footer links

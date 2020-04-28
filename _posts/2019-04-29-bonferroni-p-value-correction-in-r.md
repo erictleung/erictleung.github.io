@@ -12,7 +12,7 @@ I searched for a way in R and realized that implementing a multiple testing
 adjustment is easier than I thought/remembered.
 
 The method I'll cover a simple correction method called the
-[Bonferroni correction](https://en.wikipedia.org/wiki/Bonferroni_correction),
+[Bonferroni correction](https://en.wikipedia.org/wiki/Bonferroni_correction).
 
 Simply speaking,
 each statistical test you make has a chance of erroneous inference because the

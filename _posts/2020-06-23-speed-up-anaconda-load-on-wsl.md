@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Speed up Anaconda load on WSL
-categories: []
+categories: [windows]
 tags: [anaconda, miniconda, wsl, windows]
 ---
 

@@ -19,7 +19,7 @@ about code, data, and the (human) microbiome
 intended to be advice and notes for my previous self
 in order to help my future self.
 
-I hope you're able to takeaway something from it as well.
+I hope you're able to take away something from it as well.
 
 In my free time, I like to
 [contribute to open-source projects](http://resume.github.io/?erictleung),

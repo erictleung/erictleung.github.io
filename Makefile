@@ -13,6 +13,6 @@ post :
 	cp _drafts/template.md _posts/$(DATE)-$$SLUG.md;\
 	vim _posts/$(DATE)-$$SLUG.md
 
-.PHONY : all
+.PHONY : all draft post
 
 .DEFAULT_GOAL := all

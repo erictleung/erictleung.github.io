@@ -35,10 +35,11 @@ plugins:
 
 # Page List
 pages_list:
-  About: '/about'
-  Blog: '/blog'
-  Misc: '/misc'
-  Feed: '/feed.xml'
+  about: '/about'
+  blog: '/blog'
+  projects: '/projects'
+  misc: '/misc'
+  feed: '/feed.xml'
 
 # Footer links
 footer-links:

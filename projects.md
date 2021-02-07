@@ -15,7 +15,7 @@ Here are some projects I've been working on or worked on in the past.
 - [`unnestIfElse`](//github.com/erictleung/unnestIfElse) - my RStudio addin to quickly and roughly convert nested `base::ifelse()` statements to `dplyr::case_when()`
 - [`format-sakai-upload`](//github.com/erictleung/format-sakai-upload) - Python script to help automate bulk upload of graded Jupyter notebook assignments
 
-### Curating content projects
+### Curating content
 
 - [nature - How to construct a _Nature_ summary paragraph](erictleung.com/natureabstract) - Recreation of advice from the academic journal, Nature, to authors to summarize their manuscript.
 

@@ -17,7 +17,7 @@ Here are some projects I've been working on or worked on in the past..
 
 ### Curating content projects
 
-- TODO
+- [nature - How to construct a _Nature_ summary paragraph](erictleung.com/natureabstract) - Recreation of advice from the academic journal, Nature, to authors to summarize their manuscript.
 
 ### Data cleaning
 

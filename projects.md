@@ -30,7 +30,7 @@ Here are some projects I've been working on or worked on in the past.
 - [`erictleung.github.io`](//github.com/erictleung/erictleung.github.io) - this website built with [Jekyll](//jekyllrb.com)
 - [`gene-fusion-analysis`](github.com/erictleung/gene-fusion-analysis) - data cleaning and basic graph analysis on gene fusions in cancer
 
-### Open source projects I contribute To
+### Open source projects I contribute to
 
 - [`how-to-contribute-to-open-source`](//github.com/freeCodeCamp/how-to-contribute-to-open-source) - I actively maintain this list of resources to help new coders to get involved in open source project contributions
 - [`freeCodeCamp`](//github.com/freeCodeCamp/freeCodeCamp) - an open-source curriculum and community to teach web development; I've helped edit lessons to be more clear and I've written and help contribute to the regular expressions lessons

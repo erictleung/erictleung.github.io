@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-Here are some projects I've been working on or worked on in the past..
+Here are some projects I've been working on or worked on in the past.
 
 ### Data visualizations
 

@@ -28,7 +28,7 @@ Here are some projects I've been working on or worked on in the past.
 ### Miscellaneous projects
 
 - [`erictleung.github.io`](//github.com/erictleung/erictleung.github.io) - this website built with [Jekyll](//jekyllrb.com)
-- [`gene-fusion-analysis`](github.com/erictleung/gene-fusion-analysis) - data cleaning and basic graph analysis on gene fusions in cancer
+- [`gene-fusion-analysis`](//github.com/erictleung/gene-fusion-analysis) - data cleaning and basic graph analysis on gene fusions in cancer
 
 ### Open source projects I contribute to
 

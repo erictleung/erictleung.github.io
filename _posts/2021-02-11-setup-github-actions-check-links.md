@@ -72,7 +72,7 @@ jobs:
       - name: Setup Ruby 2.6
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.6.x
+          ruby-version: 2.6
 
       # You can also run your custom commands if no published action exists
       - name: Run checks on links

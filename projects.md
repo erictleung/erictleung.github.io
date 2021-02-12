@@ -8,6 +8,12 @@ Here are some projects I've been working on or worked on in the past.
 Overview:
 
 - [Data visualizations](#data-visualizations)
+- [Tools](#tools)
+- [Curating content](#curating-content)
+- [Data wrangling and cleaning](#data-wrangling-and-cleaning)
+- [Presentations and teaching materials](#presentations-and-teaching-materials)
+- [Miscellaneous projects](#miscellaneous-projects)
+- [Open source projects I contribute to](#open-source-projects-i-contribute-to)
 
 ### Data visualizations
 

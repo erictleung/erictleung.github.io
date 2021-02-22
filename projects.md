@@ -5,7 +5,7 @@ title: Projects
 
 Here are some projects I've been working on or worked on in the past.
 
-Overview:
+**Overview**:
 
 - [Data visualizations](#data-visualizations)
 - [Tools](#tools)

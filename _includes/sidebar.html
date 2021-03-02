@@ -23,6 +23,8 @@
       {% endfor %}
     </ul>
     <a class="sidebar-nav-item{% if page.url == site.baseurl %}
+        active{% endif %}" href="{{ site.baseurl }}/projects">Projects</a>
+    <a class="sidebar-nav-item{% if page.url == site.baseurl %}
         active{% endif %}" href="{{ site.baseurl }}/misc">Miscellaneous</a>
     <a class="sidebar-nav-item{% if page.url == site.baseurl %}
         active{% endif %}" href="{{ site.baseurl }}/atom.xml">Feed</a>

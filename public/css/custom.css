@@ -21,3 +21,8 @@
 .text-center {
     text-align: center;
 }
+
+/* Increase contrast on subtitle */
+.masthead-title small {
+    color: #195d8c;
+}

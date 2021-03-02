@@ -9,11 +9,10 @@ permalink:        /:title
 title:            Eric Leung
 description:      Code, Data, Microbiome
 sidebar: |
-    I'm a data scientist and consultant looking to connect people to
+    Data scientist and consultant looking to connect people to
     data insights, automating boring work, and tearing down barriers to
-    learning.
-
-    Follow me on Twitter at <a href="https://twitter.com/erictleung">@erictleung</a>
+    learning.<br/>Follow me on Twitter at
+    <a href="https://twitter.com/erictleung">@erictleung</a>
 url:              https://erictleung.com
 
 # Author information

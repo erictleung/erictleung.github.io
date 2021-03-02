@@ -23,6 +23,6 @@
 }
 
 /* Increase contrast on subtitle */
-.masthead-title small {
+#small_title {
     color: #195d8c;
 }

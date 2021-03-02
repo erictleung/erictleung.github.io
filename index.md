@@ -16,6 +16,6 @@ description: |
 <hr/>
 
 <p class="text-center">
-    Microbiome Data Scientist - Web Developer - Educator
+    Microbiome Data Scientist - Software Engineer - Community Learner
 </p>
 

@@ -1,7 +1,10 @@
 ---
 layout: page
 title: Miscellaneous
-description: Eric Leung is a PhD student in Bioinformatics and Computational Biology in the Department of Medical Informatics and Clinical Epidemiology at the Oregon Health &amp; Science University
+description: |
+    Eric Leung is a data scientist and consultant looking to connect people to
+    data insights, automating boring work, and tearing down barriers to
+    learning.
 ---
 
 Here are some links and miscellaneous things I've found helpful or find

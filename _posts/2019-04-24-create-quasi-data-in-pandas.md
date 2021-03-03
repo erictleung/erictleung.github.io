@@ -5,6 +5,10 @@ categories: [python]
 tags: [python, pandas, data]
 ---
 
+**Edit 2021-03-02**: it appears that as of
+[2020-01-06](https://github.com/pandas-dev/pandas/pull/30745),
+the `pandas.util.testing` module has been deprecated.
+
 I'm reading through
 [some interesting tips for Python pandas](https://realpython.com/python-pandas-tricks/)
 and just sharing one that I found unique because it's not something I thought

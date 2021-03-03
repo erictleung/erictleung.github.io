@@ -1,28 +1,28 @@
 .caption {
-    font-size: smaller;
-    text-align: center;
+  font-size: smaller;
+  text-align: center;
 }
 
 #side_posts {
-    padding-right: 0.75rem;
+  padding-right: 0.75rem;
 }
 
 #foot-center {
-    text-align: center;
-    padding-bottom: 2rem;
+  text-align: center;
+  padding-bottom: 2rem;
 }
 
 @media (max-width: 48rem) {
-    h3.masthead-title {
-        padding-left: 3rem;
-    }
+  h3.masthead-title {
+      padding-left: 3rem;
+  }
 }
 
 .text-center {
-    text-align: center;
+  text-align: center;
 }
 
 /* Increase contrast on subtitle */
 #small_title {
-    color: #195d8c;
+  color: #2669d2;
 }

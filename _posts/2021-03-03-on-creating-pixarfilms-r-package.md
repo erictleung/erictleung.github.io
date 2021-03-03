@@ -87,7 +87,7 @@ useful packages along the way can be found
 It is a long read but it goes way more in-depth than I will.
 
 I also used Hadley Wickham's
-[babynames package repository](https://github.com/hadley/babynames)
+[{babynames} package repository](https://github.com/hadley/babynames)
 as a template for things I should look for when creating my own data
 package.
 
@@ -104,7 +104,7 @@ library(usethis)    # Test code
 
 Because this is a simple data package, there isn't much testing required.
 However, in mirroring Hadley Wickham's
-[babynames R package](https://github.com/hadley/babynames),
+[{babynames} R package](https://github.com/hadley/babynames),
 I added some tests to check if the data has changed since I last ran it.
 
 Here is a little bit of code that I've used.

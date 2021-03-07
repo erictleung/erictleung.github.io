@@ -2,9 +2,8 @@
 layout: page
 title: Miscellaneous
 description: |
-    Eric Leung is a data scientist and consultant looking to connect people to
-    data insights, automating boring work, and tearing down barriers to
-    learning.
+    Here are some links and miscellaneous things I've found helpful or find
+    interesting.
 ---
 
 Here are some links and miscellaneous things I've found helpful or find

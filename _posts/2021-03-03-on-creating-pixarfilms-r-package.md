@@ -234,6 +234,16 @@ devtools::check_rhub(
   env_vars = c(R_COMPILE_AND_INSTALL_PACKAGES = "always"))
 ```
 
+Once those are complete, you can then use the following to submit to CRAN.
+
+```r
+devtools::release()
+```
+
+This will run automated checks and ask a series of questions making sure you've
+performed a number of checks like the rhub check. Afterward, it
+willautomatically submits your package to CRAN.
+
 ## In sum
 
 Above are some notes to me and others on how I created my {pixarfilms} R

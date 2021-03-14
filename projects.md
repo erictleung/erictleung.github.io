@@ -8,6 +8,7 @@ Here are some projects I've been working on or worked on in the past.
 **Overview**:
 
 - [Data visualizations](#data-visualizations)
+- [R packages](#r-packages)
 - [Tools](#tools)
 - [Curating content](#curating-content)
 - [Data wrangling and cleaning](#data-wrangling-and-cleaning)
@@ -20,10 +21,14 @@ Here are some projects I've been working on or worked on in the past.
 - [disneyplus-twitter-analysis](//github.com/erictleung/disneyplus-twitter-analysis) - Twitter analysis of Disney+'s announcement for the TV series and movies they will stream
 - [NLMITC19](//github.com/erictleung/NLMITC19) - Twitter analysis of the `#NLMITC19` hashtag on Twitter for the Informatics Training Conference
 
+### R packages
+
+- [pixarfilms](//github.com/erictleung/pixarfilms) - data package featuring information about Pixar films such as who was involved and how well they did at the box office
+- [unnestIfElse](//github.com/erictleung/unnestIfElse) - my RStudio addin to quickly and roughly convert nested `base::ifelse()` statements to `dplyr::case_when()`
+
 ### Tools
 
 - [dotfiles](//github.com/erictleung/dotfiles) - my dotfiles to setup my development environments
-- [unnestIfElse](//github.com/erictleung/unnestIfElse) - my RStudio addin to quickly and roughly convert nested `base::ifelse()` statements to `dplyr::case_when()`
 - [format-sakai-upload](//github.com/erictleung/format-sakai-upload) - Python script to help automate bulk upload of graded Jupyter notebook assignments
 
 ### Curating content

@@ -242,7 +242,7 @@ devtools::release()
 
 This will run automated checks and ask a series of questions making sure you've
 performed a number of checks like the rhub check. Afterward, it
-will automatically submits your package to CRAN.
+will automatically submit your package to CRAN.
 
 ## In sum
 

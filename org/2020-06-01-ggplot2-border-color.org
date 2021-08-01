@@ -1,0 +1,8 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+BEGIN_EXPORT html
+---
+layout: default
+title:
+---
+#+END_EXPORT

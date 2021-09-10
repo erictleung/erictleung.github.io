@@ -25,6 +25,7 @@ Here are some projects I've been working on or worked on in the past.
 
 - [pixarfilms](//github.com/erictleung/pixarfilms) - data package featuring information about Pixar films such as who was involved and how well they did at the box office
 - [unnestIfElse](//github.com/erictleung/unnestIfElse) - my RStudio addin to quickly and roughly convert nested `base::ifelse()` statements to `dplyr::case_when()`
+- [hp](//github.com/erictleung/hp) - use the pipe `%>%` to pipe a function into the `help()` function
 
 ### Tools
 

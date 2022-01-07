@@ -40,7 +40,7 @@ iris %>%
 
 <sup>Created on 2019-06-18 by the [reprex package](https://reprex.tidyverse.org) (v0.2.1)</sup>
 
-So here, I've take the ubiquitous `iris` dataset and grouped the rows by
+So here, I've taken the ubiquitous `iris` dataset and grouped the rows by
 species and took the first row. You can probably do a random sample in the
 `map()` function for stratified sampling.
 

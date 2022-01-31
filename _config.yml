@@ -6,8 +6,8 @@ highlighter:      rouge
 permalink:        /:title
 
 # Setup
-title:            Eric Leung
-description:      Code and Data Learnings
+title:            eric leung
+description:      code and data learnings
 sidebar: |
     Biomedical data scientist and consultant
     looking to connect people to

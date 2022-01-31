@@ -7,11 +7,7 @@ description: |
     learning.
 ---
 
-<img
-    src="assets/weathermachine_headshot.jpg"
-    alt="Headshot profile picture"
-    style="border-radius: 50%"
->
+<img src="assets/weathermachine_headshot.jpg" alt="Headshot profile picture" style="border-radius: 50%">
 
 <h3 class="text-center">
     Hello!

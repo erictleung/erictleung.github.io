@@ -1,6 +1,8 @@
 ---
 layout: page
 title: About
+description: |
+    About me page
 ---
 
 > Docendo discimus
@@ -25,3 +27,8 @@ In my free time, I like to
 [contribute to open-source projects](http://resume.github.io/?erictleung),
 volunteer locally,
 and learn foreign and programming languages.
+
+I'm most active on Twitter (and LinkedIn).
+If you'd like to get in contact,
+try to follow
+[some suggestions on writing a good cold email](https://sriramk.com/coldemail).

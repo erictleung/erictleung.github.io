@@ -16,7 +16,10 @@ perspective of a data scientist.
 
 Although "data science" is such a broad field and my account won't be
 representative of all data workers out there, I thought it would be data point
-for us to have to understand what could go on in our day-to-day.
+for us to have to understand what could go on in our day-to-day. This week
+apparently was full of package development with {pkgdown}, plotting results
+with {ggplot2} and making small aesthetic changes, and making a table with
+{gt}.
 
 ## [2022-04-04 Mon]
 
@@ -122,7 +125,44 @@ https://stackoverflow.com/a/6017961/6873133
 
 ## [2022-04-07 Thu]
 
+`ggplot2 bar width` - Looks like a simple `width = X` in your `geom_bar()`
+https://stackoverflow.com/a/32943101/6873133
+
+`ggplot2 scales label_number` https://scales.r-lib.org/reference/number.html
+
+`ggplot2 change text size`  https://statisticsglobe.com/change-font-size-of-ggplot2-plot-in-r-axis-text-main-title-legend
+
+`?geom_vline` - I remembered this is to generate a vertical line, but I have
+forgotten the parameters, so I ran this one right in RStudio
+
+`ggplot2 add textbox` - Ah with `annotate()`
+https://stackoverflow.com/a/44012702/6873133
+
 ## [2022-04-08 Fri]
+
+`ggplot2 better spacing of geom_text stacked bar plot` - This brought me to
+learn about `lineheight` (https://stackoverflow.com/a/51134651/6873133), but
+ultimately, I wanted the text *not to overlap*, and after looking at the
+documentation, `geom_text` has a built-in parameter `check_overlap` for just
+this.
+
+`ggrepl for stacked bar plot` - ...But after using the solution above, I
+realized that `check_overlap` actually *removes* text that overlaps, which I
+didn't want. I then found this post using `ggrepel`. I knew about this package
+but wasn't sure if it was useful for stakced bar plots
+https://stackoverflow.com/a/55817548/6873133 The example here kind of works,
+except it changes the location of text I don't want moving, like in the larger
+bars. I abandoned this and simply removed "bars" with zero values.
+
+`ggplot2 show all factors in legend` - Added a `drop = False` in there
+https://stackoverflow.com/a/33765825/6873133
+
+`ggplot2 stacked bar plot position dodge with change in x` - I was frustrated
+with where the text annotation for my columns were. This solution here
+(https://stackoverflow.com/a/58256551/6873133) didn't exactly solve it outright
+for me, but it did show me what's possible to move around the column label. The
+parameter I was looking forward was simply the `x` and `y` aesthetics, which
+allow me to fine tune where my text labels are. In hindsight, this makes sense.
 
 ## Reflection
 

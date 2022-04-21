@@ -90,7 +90,7 @@ label I wanted and adjust them accordingly to fix the plot
 ## Wednesday
 
 `ggplot2 stacked bar` - this
-[site help](https://r-charts.com/part-whole/stacked-bar-chart-ggplot2/)
+[site helped](https://r-charts.com/part-whole/stacked-bar-chart-ggplot2/)
 
 `ggplot2 legend on top` - Possible with `+ theme(legend.position = "top")`
 

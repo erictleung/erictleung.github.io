@@ -22,7 +22,7 @@ This week apparently was full of package development with
 [{ggplot2}](https://ggplot2.tidyverse.org/) and making small aesthetic changes,
 and making a table with [{gt}](https://gt.rstudio.com/).
 
-## [2022-04-04 Mon]
+## Monday
 
 `pkgdown Failed to parse example for topic` - Turned out some code in an
 function example was invalid
@@ -37,7 +37,7 @@ page so I just put it back in the `_pkgdown.yml` file and all was good
 [on roxygen2 syntax](https://roxygen2.r-lib.org/articles/rd-formatting.html)
 
 
-## [2022-04-05 Tue]
+## Tuesday
 
 `gt add table header` - Found the official website and just took a look at
 [the introduction page](https://gt.rstudio.com/articles/intro-creating-gt-tables.html)
@@ -87,7 +87,7 @@ but figured because of the power of ggplot2, I can simply have two
 label I wanted and adjust them accordingly to fix the plot
 
 
-## [2022-04-06 Wed]
+## Wednesday
 
 `ggplot2 stacked bar` - this
 [site help](https://r-charts.com/part-whole/stacked-bar-chart-ggplot2/)
@@ -133,7 +133,7 @@ keep on forgetting which
 [`position_dodge()` within `geom_text()`](https://stackoverflow.com/a/6017961/6873133)
 
 
-## [2022-04-07 Thu]
+## Thursday
 
 `ggplot2 bar width` - Looks like a
 [simple `width = X` in your `geom_bar()`](https://stackoverflow.com/a/32943101/6873133)
@@ -154,7 +154,7 @@ forgotten the parameters, so I ran this one right in RStudio
 [the `annotate()` function](https://stackoverflow.com/a/44012702/6873133)
 
 
-## [2022-04-08 Fri]
+## Friday
 
 `ggplot2 better spacing of geom_text stacked bar plot` - This brought me to
 learn about
@@ -182,6 +182,9 @@ didn't exactly solve it outright for me, but it did show me what's possible to
 move around the column label. The parameter I was looking forward was simply
 the `x` and `y` aesthetics, which allow me to fine tune where my text labels
 are. In hindsight, this makes sense.
+
+Guess I was wanting to be a bit more verbose on my thoughts on these
+challenges. At this point, I was doing some very custom changes to my plots.
 
 
 ## Reflection

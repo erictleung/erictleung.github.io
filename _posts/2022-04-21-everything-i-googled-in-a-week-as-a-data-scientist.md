@@ -17,9 +17,10 @@ perspective of a data scientist.
 *Disclaimer*: although "data science" is such a broad field and my account
 won't be representative of all data workers out there, I thought it would be
 data point for us to have to understand what could go on in our day-to-day.
-This week apparently was full of package development with {pkgdown}, plotting
-results with {ggplot2} and making small aesthetic changes, and making a table
-with {gt}.
+This week apparently was full of package development with
+[{pkgdown}](https://pkgdown.r-lib.org/), plotting results with
+[{ggplot2}](https://ggplot2.tidyverse.org/) and making small aesthetic changes,
+and making a table with [{gt}](https://gt.rstudio.com/).
 
 ## [2022-04-04 Mon]
 

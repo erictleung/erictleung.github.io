@@ -33,8 +33,8 @@ message
 `pkgdown Topics missing from index` - A function was missing from my references
 page so I just put it back in the `_pkgdown.yml` file and all was good
 
-`roxygen2 documentation` - Needed an overall page on roxygen2 syntax
-https://roxygen2.r-lib.org/articles/rd-formatting.html
+`roxygen2 documentation` - Needed an overall page
+[on roxygen2 syntax](https://roxygen2.r-lib.org/articles/rd-formatting.html)
 
 
 ## [2022-04-05 Tue]

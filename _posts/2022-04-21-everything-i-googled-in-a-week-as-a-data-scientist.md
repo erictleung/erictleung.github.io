@@ -89,7 +89,7 @@ label I wanted and adjust them accordingly to fix the plot
 
 ## Wednesday
 
-`ggplot2 stacked bar` - this
+`ggplot2 stacked bar` - This
 [site helped](https://r-charts.com/part-whole/stacked-bar-chart-ggplot2/)
 
 `ggplot2 legend on top` - Possible with `+ theme(legend.position = "top")`
@@ -98,10 +98,10 @@ label I wanted and adjust them accordingly to fix the plot
 my bar plot, but I figured it might easier to make an empty space instead.
 So...
 
-`forcats add factor` - just
+`forcats add factor` - Just
 [the documentation page](https://forcats.tidyverse.org/reference/fct_expand.html)
 
-`ggplot2 format x-axis labels` - a
+`ggplot2 format x-axis labels` - A
 [solid general resource](http://www.sthda.com/english/wiki/ggplot2-axis-ticks-a-guide-to-customize-tick-marks-and-labels)
 
 `ggplot2 change ordering of legend` - I found
@@ -138,10 +138,10 @@ keep on forgetting which
 `ggplot2 bar width` - Looks like a
 [simple `width = X` in your `geom_bar()`](https://stackoverflow.com/a/32943101/6873133)
 
-`ggplot2 scales label_number` - good documentation is
+`ggplot2 scales label_number` - Good documentation is
 [the best](https://scales.r-lib.org/reference/number.html)
 
-`ggplot2 change text size` - such
+`ggplot2 change text size` - Such
 [a common
 thing](https://statisticsglobe.com/change-font-size-of-ggplot2-plot-in-r-axis-text-main-title-legend)
 I'd imagine this would be easier. I was in a time crunch so maybe there's a

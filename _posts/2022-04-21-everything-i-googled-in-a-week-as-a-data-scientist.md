@@ -55,7 +55,8 @@ need extra control on my factors
 was useful
 
 `r get just file name of file path` - Stack Overflow to the rescue with
-`basename()` (and also `dirname()` https://stackoverflow.com/a/2548871/6873133
+`basename()` and also `dirname()`
+[here](https://stackoverflow.com/a/2548871/6873133)
 
 `gt left align columns` - Eventually got me to find
 [the `cols_align()` function](https://gt.rstudio.com/reference/cols_align.html)

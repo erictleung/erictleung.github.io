@@ -6,7 +6,7 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">
       <span class="octicon octicon-calendar"></span>
-      {{ page.date | date_to_string }}
+      {{ page.date | date: "%Y-%m-%d"}}
   </span>
   {{ content }}
 </div>

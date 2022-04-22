@@ -34,4 +34,5 @@ git clone --depth 100 https://github.com/freeCodeCamp/freeCodeCamp.git
 ```
 
 This will get only the last 100 commits from this repository. More on this flag
-here https://book.git-scm.com/docs/git-clone.
+here
+[https://book.git-scm.com/docs/git-clone](https://book.git-scm.com/docs/git-clone).

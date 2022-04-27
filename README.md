@@ -7,6 +7,8 @@ Herein lies the source code of my website.
 - [Prerequisites](#prerequisites)
 - [Installation and Starting](#installation-and-starting)
 - [Modified Theme](#modified-theme)
+- [Inserting images](#inserting-images)
+- [Other](#other)
 - [License](#license)
 
 
@@ -86,6 +88,13 @@ I've created a small shortcut to help embed images more semantically.
    caption="This is the caption for the image"
 %}
 ```
+
+
+## Other
+
+Jekyll uses the [Liquid](https://shopify.github.io/liquid/) templating system
+to inject some programming logic into some of the HTML elements. See its
+documentation page for more on how to use it in Jekyll.
 
 
 ## License

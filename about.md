@@ -28,6 +28,8 @@ In my free time, I like to
 volunteer locally,
 and learn foreign and programming languages.
 
+To keep up what I'm currently up to, please visit [here](./now).
+
 I'm most active on Twitter (and LinkedIn).
 If you'd like to get in contact,
 try to follow

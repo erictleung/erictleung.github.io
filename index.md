@@ -7,7 +7,9 @@ description: |
     learning.
 ---
 
+<a href="./about">
 <img src="assets/weathermachine_headshot.jpg" alt="Headshot profile picture" style="border-radius: 50%" width="35%">
+</a>
 
 <p class="text-center">
     Hello!

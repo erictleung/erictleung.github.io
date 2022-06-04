@@ -6,27 +6,40 @@ description: |
     More at https://nownownow.com.
 ---
 
-I have started a new job working from home as a Data Scientist with Disney
-working with their ESPN marketing team.
+## 🌍 Current Location
 
-My regular exercise I would have biking to work doesn't happen anymore. So I've
-picked up indoor rock climbing and biking to and from there as my regular
-exercise.
+Portland, Oregon, USA
 
-**Goals for 2021**
+## 📚 Reading
 
-- Perform weekly review on all things on my mind
-- Finish Mandarin learning tree on Duolingo
-- Climb a V5 bouldering route
-- Avoid overcommitting myself to projects for this year to recharge
-- Take a real vacation
+- [The Master: The Long Run and Beautiful Game of Roger Federer](https://bookshop.org/books/the-master-the-long-run-and-beautiful-game-of-roger-federer/9781538719268)
+  by [Christopher Clarey](https://twitter.com/christophclarey)
+- [There, There](https://app.thestorygraph.com/books/7cbab85f-03e0-449c-ae1c-246d52a8691c)
+  by Tommy Orange
+- [You Truly Assumed](https://app.thestorygraph.com/books/e0de6774-ca4e-4f84-bad9-1bf973937587)
+  by Laila Sabreen
 
-**Habits for 2021**
+## 🎼 Skills work
 
-- Maintain technical knowledge through daily review of spaced repetition cards
-- Regularly upkeep digital garden with technical and socioeconomic issues on my
-  mind
-- Read a book 30 minutes daily
-- Use Twitter to document micro-learning
+- Learning [Emacs Lisp](https://www.gnu.org/software/emacs/manual/html_node/elisp/)
+- Practicing Mandarin Chinese on Duolingo and Du Chinese
+- Figure skating, specifically back scratch spin and sit spins
+- Rock climbing, working on footwork and finger strength
 
-Last updated: 2021-07-25
+## ✍️ Writing
+
+- Getting back to writing math articles for
+  [freeCodeCamp](freecodecamp.org/news/author/erictleung/),
+  specifically on undergraduate statistics and Bayesian statistics
+- Personal blog posts for reflecting on the past year and other
+  learnings
+
+## 💵 Income Generation
+
+- I've recently accepted to be a Data Science Mentor at
+  [RStudio](https://www.rstudio.com/academy)
+- I'm a freelance consultant on
+  [UpWork](https://www.upwork.com/freelancers/~013dbc580b3a5f97ac)
+- I've set up a [GitHub Sponsors page](https://github.com/sponsors/erictleung)
+
+**Last updated**: 2022-06-04

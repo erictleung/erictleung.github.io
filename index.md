@@ -19,9 +19,14 @@ description: |
     nonfiction) books, and playing tennis.
 </p>
 
+<p class="text-center">
+    I [occasionally write](./blog) about things I've noticed or recurring
+    advice I find myself giving.
+    I'm also involved [in a number of projects](./projects).
+    You can learn more [about me here](./about).
+</p>
+
 <hr/>
 
-<p class="text-center">
-    Data Scientist - Software Engineer - Community Learner
-</p>
+<p class="text-center">Data Scientist - Software Engineer - Community Learner</p>
 

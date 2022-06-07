@@ -20,10 +20,14 @@ description: |
 </p>
 
 <p class="text-center">
-    I [occasionally write](./blog) about things I've noticed or recurring
+    I
+    <a href="./blog">occasionally write</a>
+    about things I've noticed or recurring
     advice I find myself giving.
-    I'm also involved [in a number of projects](./projects).
-    You can learn more [about me here](./about).
+    I'm also involved
+    <a href="./projects">in a number of projects</a>
+    You can learn more
+    <a href="./about"about me here></a>.
 </p>
 
 <hr/>

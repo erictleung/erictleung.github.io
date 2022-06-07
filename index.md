@@ -29,7 +29,9 @@ description: |
     I'm also involved
     <a href="./projects">in a number of projects</a>
     You can learn more
-    <a href="./about">about me here</a>.
+    <a href="./about">about me here</a>
+    along with what I'm up to
+    <a href="./now">currently</a>.
 </p>
 
 <hr/>

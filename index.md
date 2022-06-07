@@ -13,10 +13,12 @@ description: |
 
 <p class="text-center">
     Hello!
-    I'm a software engineer at heart, but trained as a data scientist.
-    Currently, I work at Disney Media & Entertainment Distribution (DMED).
-    When not working, I enjoy learning languages, reading (primarily
-    nonfiction) books, and playing tennis.
+    I'm a
+    <a href="https://github.com/erictleung">software engineer</a>
+    at heart, but trained as a
+    <a href="https://ohsu.edu/dmice">data scientist</a>.
+    Currently, I work at
+    <a href="https://dmedmedia.disney.com/">Disney Media & Entertainment Distribution (DMED)</a>.
 </p>
 
 <p class="text-center">

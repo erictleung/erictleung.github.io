@@ -37,7 +37,7 @@ Portland, Oregon, USA
 
 ## 💵 Income Generation
 
-- I've recently accepted to be a Data Science Mentor at
+- I've recently accepted to be a (very) part-time Data Science Mentor at
   [RStudio](https://www.rstudio.com/academy)
 - I'm a freelance consultant on
   [UpWork](https://www.upwork.com/freelancers/~013dbc580b3a5f97ac)

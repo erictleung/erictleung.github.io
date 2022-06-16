@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Everything I googled in a week as a professional data scientist
+description: Learn what a real data scientist searches on Google for a week to do work
 categories: []
 tags: [engineering, work]
 ---

@@ -65,3 +65,6 @@ Here are some projects I've been working on or worked on in the past.
 - [`how-to-contribute-to-open-source`](//github.com/freeCodeCamp/how-to-contribute-to-open-source) - I actively maintain this list of resources to help new coders to get involved in open source project contributions
 - [`freeCodeCamp`](//github.com/freeCodeCamp/freeCodeCamp) - an open-source curriculum and community to teach web development; I've helped edit lessons to be more clear and I've written and help contribute to the regular expressions lessons
 - [`r-bootcamp`](//github.com/laderast/r-bootcam://github.com/laderast/r-bootcamp) - a self-directed tutorial for learning R-programming basics
+
+See all contributions
+[here](//github.com/pulls?q=is%3Apr+author%3Aerictleung+archived%3Afalse+is%3Aclosed+sort%3Acreated-as://github.com/pulls?q=is%3Apr+author%3Aerictleung+archived%3Afalse+is%3Aclosed+sort%3Acreated-asc).

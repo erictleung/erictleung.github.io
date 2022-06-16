@@ -58,7 +58,7 @@ Here are some projects I've been working on or worked on in the past.
 - [erictleung.github.io](//github.com/erictleung/erictleung.github.io) - this website built with [Jekyll](//jekyllrb.com)
 - [gene-fusion-analysis](//github.com/erictleung/gene-fusion-analysis) - data cleaning and basic graph analysis on gene fusions in cancer
 - [garden](garden) - my digital garden
-- [bmi656-research-project](https://github.com/erictleung/bmi656-research-project) - Final project for BMI 566/656 Bioinformatics Programming and Scripting to identify pathways containing a large number of differentially expressed genes
+- [bmi656-research-project](//github.com/erictleung/bmi656-research-project) - Final project for BMI 566/656 Bioinformatics Programming and Scripting to identify pathways containing a large number of differentially expressed genes
 
 ### Open source projects I contribute to
 

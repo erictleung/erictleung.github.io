@@ -1,6 +1,6 @@
 ---
 layout: post
-title: pyblack - An RStudio Addin to format Python code with black
+title: How I created an RStudio addin, pyblack, to format Python code with black
 categories: [tools]
 tags: [rstudio, rstats, tools, addin, python, linting]
 ---

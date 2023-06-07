@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Linuxbrew - For When You Don't Have Root Access
+description: Learn what Linuxbrew is and how to install it
 category: linux
 ---
 

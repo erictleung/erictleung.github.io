@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introduction to GNU Parallel
+description: Learn what GNU Parallel is and how it is useful for parallel processing
 category: linux
 ---
 

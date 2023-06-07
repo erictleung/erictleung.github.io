@@ -3,3 +3,4 @@ _site/
 public/
 node_modules/
 .cache/
+.Rhistory

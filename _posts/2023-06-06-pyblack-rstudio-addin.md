@@ -25,7 +25,7 @@ looking at my comments, I may have inspiration from
 [AlignAssign](https://github.com/seasmith/AlignAssign). This addin aligns
 assignment operators within a highlighted area.
 
-Regardless, I have one and/or two places to draw code from that do what I want.
+Regardless, I have up to two places to draw code from that do what I want.
 Namely, I want some code to help take code from some highlighted area and then
 change it.
 
@@ -39,7 +39,7 @@ capture <- rstudioapi::getSourceEditorContext()
 ```
 
 This returns a nested list with, among other things, the selected text from an
-editor. Progress.
+editor. This is progress.
 
 After some exploration, I found that I could get the correct text using
 this[^2]:
@@ -82,7 +82,7 @@ I added the `-v` for future troubleshooting ease[^3].
 
 Now how do I get to `file_to_format.py`? I found another example of prettifying
 code using [prettifyAddins](https://github.com/stla/prettifyAddins). At first
-look, this would have done the job. But this only apply black to Python files.
+glance, this would have done the job. But this only apply black to Python files.
 I wanted a way to format Python code chunks in RMarkdown.
 
 But what I did get from this addin is the idea to write out the extracted code
@@ -96,7 +96,7 @@ writeLines(code, tmpFile)
 I got some feedback that if there are lots of code blocks, there will be lots of
 input/output writing that can cause things to slow down. Unfortunately, I
 couldn't find a way to cleanly stream code directly to black without dealing with
-an escaping quotes headache[^4].
+a long-troubleshooting-with-escaping-quotes headache[^4].
 
 Now after styling with black, I can reinject the code using this code here.
 
@@ -151,7 +151,7 @@ manipulated programmatically[^6].
 
 With that complete, I now have two ways to format Python code:
 
-1. Selected code that I highlighted
+1. Style selected code that I highlighted
 2. Style all Python code blocks in an entire RMarkdown/Quarto document
 
 The last step is to then specify my functions in `inst/rstudio/addins.dcf` so
@@ -171,7 +171,9 @@ Interactive: true
 
 In conclusion, I hope you've enjoyed learning a bit on how to programmatically
 manipulate text in RStudio and now have a reference for if you too want to create
-your own RStudio addin.
+your own RStudio addin. Here is the project again if you want to take a look order
+try it for yourself
+[https://github.com/erictleung/pyblack](https://github.com/erictleung/pyblack).
 
 [^1]: ICYMI Posit has an API to programmatically access RStudio!
 
@@ -180,10 +182,10 @@ your own RStudio addin.
 [^3]: This returns more verbose stdout and stderr when formatting
 
 [^4]: This only works for simple examples like
-  `black --code "print ( 'hello, world' )"`
+    `black --code "print ( 'hello, world' )"`
 
 [^5]: This especially gets messy when injecting new code that will then change
-  the initial text positions. Sounds like some recursive programming that I don't
-  want to get into.
+    the initial text positions. Sounds like some recursive programming that I don't
+    want to get into.
 
 [^6]: This package is magic. I want to learn what more I can do with this later.

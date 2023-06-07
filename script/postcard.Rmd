@@ -1,0 +1,29 @@
+---
+title: "Eric Leung"
+image: "../assets/weathermachine_headshot.jpg"
+links:
+  - label: Website
+    url: "https://erictleung.com/"
+  - label: Blog
+    url: "https://erictleung.com/blog"
+  - label: Twitter
+    url: "https://twitter.com/erictleung"
+  - label: GitHub
+    url: "https://github.com/erictleung"
+  - label: Projects
+    url: "https://erictleung.com/projects"
+  - label: What I'm Up to Now
+    url: "https://erictleung.com/now"
+  - label: LinkedIn
+    url: "https://linkedin.com/in/erictleung"
+output:
+  postcards::jolla
+---
+ 
+I'm data scientist living in Portland, OR.
+Currently, I work in marketing and content analytics at
+<a href="https://dmedmedia.disney.com">DMED<a/>.
+I enjoy talking about
+education,
+languages, and
+sustainable open-source tools.

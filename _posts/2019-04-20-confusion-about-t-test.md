@@ -85,5 +85,5 @@ the review lesson here is to check your assumptions.
 
 ### Python metaclasses
 
-https://realpython.com/python-metaclasses/
+<https://realpython.com/python-metaclasses/>
 

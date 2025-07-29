@@ -17,7 +17,7 @@ description: |
     <a href="https://github.com/erictleung">software engineer</a>
     at heart, but trained as a
     <a href="https://ohsu.edu/dmice">biomedical data scientist</a>,
-    but now doing marketing analytics in
+    and now doing marketing analytics in
     <a href="https://thewaltdisneycompany.com/">media and entertainment</a>.
 </p>
 

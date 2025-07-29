@@ -16,9 +16,9 @@ description: |
     I'm a
     <a href="https://github.com/erictleung">software engineer</a>
     at heart, but trained as a
-    <a href="https://ohsu.edu/dmice">data scientist</a>.
-    Currently, I'm a data scientist at
-    <a href="https://thewaltdisneycompany.com/">The Walt Disney Company</a>.
+    <a href="https://ohsu.edu/dmice">biomedical data scientist</a>,
+    but now doing marketing analytics in
+    <a href="https://thewaltdisneycompany.com/">media and entertainment</a>.
 </p>
 
 <p class="text-center">

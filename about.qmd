@@ -1,0 +1,45 @@
+---
+title: "about"
+image: assets/weathermachine_headshot.jpg
+about:
+  template: trestles
+  links:
+    - icon: bluesky
+      text: Bluesky
+      href: https://erictleung.bsky.social
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/erictleung
+    - icon: github
+      text: Github
+      href: https://github.com/erictleung
+---
+
+## bio
+
+I enjoy using data and technology
+to better human capabilities,
+and teaching what I can along the way with play.
+I occasionally keep up with new data analytics trends,
+but I gravitate towards foundations methods in statistics and machine learning.
+
+
+## experience
+
+**Google Brain** | Principal Investigator | January 2018 - Present
+
+**Netflix** | Research Scientist | June 2014 - December 2017
+
+
+## education
+
+**Massachusetts Institute of Technology** | Cambridge, MA
+
+Ph.D. in Computer Science | September 2009 - May 2014
+
+**The University of California, Berkeley** | Berkeley, CA
+
+B.S. in Computer Science | September 2005 - May 2009
+
+
+## talks

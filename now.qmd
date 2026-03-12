@@ -1,9 +1,7 @@
 ---
-layout: page
-title: What I'm Doing Now
-description: |
-    Things I'm focused on at this point in my life.
-    More at https://nownownow.com.
+title: "Now"
+about:
+  template: jolla
 ---
 
 ## 🌍 Current Location

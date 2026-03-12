@@ -1,0 +1,29 @@
+---
+title: "eric t leung"
+image: assets/weathermachine_headshot.jpg
+about:
+  template: jolla
+  links:
+    - icon: bluesky
+      text: Bluesky
+      href: https://erictleung.bsky.social
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/erictleung
+    - icon: github
+      text: Github
+      href: https://github.com/erictleung
+---
+
+Hello! I'm a [software engineer](https://github.com/erictleung) at heart,
+but trained as a [biomedical data scientist](https://ohsu.edu/).
+
+I [occasionally write](./blog) about things
+I've noticed or recurring advice I find myself giving.
+I'm also involved in a [number of projects](./projects).
+You can learn more about me here along with what I'm up to [currently](./now). 
+
+<hr/>
+
+Data Scientist - Software Engineer - Community Learner
+

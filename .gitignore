@@ -1,6 +1,19 @@
+# R
+.Rhistory
+.Rproj.user
+.Rproj.user/
+
+# Quarto build
+.quarto/
+_site/
+_freeze/
+
+# Misc
 *.swp
 _site/
 public/
 node_modules/
 .cache/
-.Rhistory
+
+/.quarto/
+**/*.quarto_ipynb

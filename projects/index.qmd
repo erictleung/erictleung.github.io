@@ -1,9 +1,17 @@
 ---
-layout: page
-title: Projects
+title: "Projects"
+# listing:
+#   contents: projects
+#   feed: true
+#   sort: "date desc"
+#   type: default
+#   categories: true
+#   sort-ui: true
+#   filter-ui: true
+#   fields: [date, title, reading-time, description, categories]
+# page-layout: full
+# title-block-banner: false
 ---
-
-Here are some projects I've been working on or worked on in the past.
 
 **Overview**:
 
@@ -16,10 +24,17 @@ Here are some projects I've been working on or worked on in the past.
 - [Miscellaneous projects](#miscellaneous-projects)
 - [Open source projects I contribute to](#open-source-projects-i-contribute-to)
 
-### Data visualizations
+## Data visualization
 
-- [disneyplus-twitter-analysis](//github.com/erictleung/disneyplus-twitter-analysis) - Twitter analysis of Disney+'s announcement for the TV series and movies they will stream
-- [NLMITC19](//github.com/erictleung/NLMITC19) - Twitter analysis of the `#NLMITC19` hashtag on Twitter for the Informatics Training Conference
+### disneyplus-twitter-analysis
+
+[disneyplus-twitter-analysis](//github.com/erictleung/disneyplus-twitter-analysis) - Twitter analysis of Disney+'s announcement for the TV series and movies they will stream
+
+### NLMITC19
+
+[NLMITC19](//github.com/erictleung/NLMITC19) - Twitter analysis of the `#NLMITC19` hashtag on Twitter for the Informatics Training Conference
+
+Here are some projects I've been working on or worked on in the past.
 
 ### R packages
 

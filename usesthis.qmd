@@ -1,8 +1,7 @@
 ---
-layout: page
-title: usesthis
-description: |
-    A description of my workflows and tools.
+title: "Uses This"
+about:
+  template: jolla
 ---
 
 ## Who are you, and what do you do?
